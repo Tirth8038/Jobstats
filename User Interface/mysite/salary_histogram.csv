@@ -1,0 +1,2479 @@
+,Approximate Salary,Count of Jobs in that salary range,Category
+0,120000,0,Academic librarian
+1,80000,0,Academic librarian
+2,40000,0,Academic librarian
+3,60000,0,Academic librarian
+4,100000,0,Academic librarian
+5,20000,0,Academic librarian
+6,140000,0,Academic librarian
+7,40000,555,Accountant
+8,120000,179,Accountant
+9,60000,595,Accountant
+10,100000,238,Accountant
+11,80000,359,Accountant
+12,140000,158,Accountant
+13,20000,898,Accountant
+14,140000,0,Accounting technician
+15,20000,1,Accounting technician
+16,100000,0,Accounting technician
+17,40000,2,Accounting technician
+18,60000,2,Accounting technician
+19,80000,1,Accounting technician
+20,120000,0,Accounting technician
+21,120000,45,Actuary
+22,40000,1,Actuary
+23,140000,102,Actuary
+24,80000,18,Actuary
+25,20000,2,Actuary
+26,60000,4,Actuary
+27,100000,37,Actuary
+28,100000,1,Adult nurse
+29,120000,2,Adult nurse
+30,40000,2,Adult nurse
+31,60000,3,Adult nurse
+32,80000,1,Adult nurse
+33,20000,0,Adult nurse
+34,140000,0,Adult nurse
+35,100000,0,Advertising account executive
+36,140000,0,Advertising account executive
+37,20000,0,Advertising account executive
+38,120000,0,Advertising account executive
+39,40000,0,Advertising account executive
+40,80000,0,Advertising account executive
+41,60000,0,Advertising account executive
+42,140000,0,Advertising account planner
+43,60000,0,Advertising account planner
+44,20000,0,Advertising account planner
+45,80000,0,Advertising account planner
+46,100000,0,Advertising account planner
+47,120000,0,Advertising account planner
+48,40000,0,Advertising account planner
+49,140000,0,Advertising copywriter
+50,100000,0,Advertising copywriter
+51,20000,1,Advertising copywriter
+52,60000,0,Advertising copywriter
+53,80000,0,Advertising copywriter
+54,120000,0,Advertising copywriter
+55,40000,0,Advertising copywriter
+56,20000,0,Advice worker
+57,140000,0,Advice worker
+58,80000,0,Advice worker
+59,100000,0,Advice worker
+60,120000,0,Advice worker
+61,60000,0,Advice worker
+62,40000,0,Advice worker
+63,40000,0,Advocate (Scotland)
+64,140000,0,Advocate (Scotland)
+65,100000,0,Advocate (Scotland)
+66,20000,0,Advocate (Scotland)
+67,60000,0,Advocate (Scotland)
+68,120000,0,Advocate (Scotland)
+69,80000,0,Advocate (Scotland)
+70,80000,1,Aeronautical engineer
+71,20000,2,Aeronautical engineer
+72,60000,0,Aeronautical engineer
+73,100000,0,Aeronautical engineer
+74,140000,0,Aeronautical engineer
+75,40000,0,Aeronautical engineer
+76,120000,0,Aeronautical engineer
+77,40000,0,Agricultural consultant
+78,80000,1,Agricultural consultant
+79,60000,1,Agricultural consultant
+80,120000,0,Agricultural consultant
+81,100000,0,Agricultural consultant
+82,20000,0,Agricultural consultant
+83,140000,0,Agricultural consultant
+84,140000,1,Agricultural manager
+85,100000,0,Agricultural manager
+86,120000,0,Agricultural manager
+87,40000,1,Agricultural manager
+88,80000,1,Agricultural manager
+89,20000,1,Agricultural manager
+90,60000,0,Agricultural manager
+91,40000,0,Aid worker/humanitarian worker
+92,80000,0,Aid worker/humanitarian worker
+93,60000,0,Aid worker/humanitarian worker
+94,120000,0,Aid worker/humanitarian worker
+95,20000,0,Aid worker/humanitarian worker
+96,140000,0,Aid worker/humanitarian worker
+97,100000,0,Aid worker/humanitarian worker
+98,80000,0,Air traffic controller
+99,40000,0,Air traffic controller
+100,140000,0,Air traffic controller
+101,100000,0,Air traffic controller
+102,60000,1,Air traffic controller
+103,120000,0,Air traffic controller
+104,20000,0,Air traffic controller
+105,40000,0,Airline cabin crew
+106,140000,0,Airline cabin crew
+107,20000,0,Airline cabin crew
+108,80000,0,Airline cabin crew
+109,60000,0,Airline cabin crew
+110,120000,0,Airline cabin crew
+111,100000,0,Airline cabin crew
+112,80000,0,Amenity horticulturist
+113,20000,0,Amenity horticulturist
+114,60000,0,Amenity horticulturist
+115,120000,0,Amenity horticulturist
+116,40000,0,Amenity horticulturist
+117,100000,0,Amenity horticulturist
+118,140000,0,Amenity horticulturist
+119,140000,1,Analytical chemist
+120,20000,1,Analytical chemist
+121,60000,0,Analytical chemist
+122,80000,0,Analytical chemist
+123,100000,2,Analytical chemist
+124,120000,0,Analytical chemist
+125,40000,4,Analytical chemist
+126,40000,0,Animal nutritionist
+127,20000,0,Animal nutritionist
+128,140000,0,Animal nutritionist
+129,60000,0,Animal nutritionist
+130,120000,0,Animal nutritionist
+131,100000,0,Animal nutritionist
+132,80000,0,Animal nutritionist
+133,40000,3,Animator
+134,140000,5,Animator
+135,20000,9,Animator
+136,80000,5,Animator
+137,120000,3,Animator
+138,60000,7,Animator
+139,100000,7,Animator
+140,80000,0,Archaeologist
+141,20000,0,Archaeologist
+142,60000,0,Archaeologist
+143,40000,1,Archaeologist
+144,120000,0,Archaeologist
+145,100000,0,Archaeologist
+146,140000,0,Archaeologist
+147,120000,179,Architect
+148,40000,52,Architect
+149,140000,293,Architect
+150,80000,177,Architect
+151,20000,93,Architect
+152,60000,85,Architect
+153,100000,169,Architect
+154,80000,0,Architectural technologist
+155,60000,0,Architectural technologist
+156,100000,0,Architectural technologist
+157,120000,0,Architectural technologist
+158,140000,0,Architectural technologist
+159,20000,0,Architectural technologist
+160,40000,0,Architectural technologist
+161,120000,0,Archivist
+162,80000,0,Archivist
+163,40000,0,Archivist
+164,140000,0,Archivist
+165,100000,0,Archivist
+166,20000,0,Archivist
+167,60000,1,Archivist
+168,60000,0,Armed forces officer
+169,20000,0,Armed forces officer
+170,80000,0,Armed forces officer
+171,120000,0,Armed forces officer
+172,40000,0,Armed forces officer
+173,140000,0,Armed forces officer
+174,100000,0,Armed forces officer
+175,120000,0,Aromatherapist
+176,80000,0,Aromatherapist
+177,140000,0,Aromatherapist
+178,40000,0,Aromatherapist
+179,100000,0,Aromatherapist
+180,20000,0,Aromatherapist
+181,60000,0,Aromatherapist
+182,80000,1,Art therapist
+183,120000,0,Art therapist
+184,100000,0,Art therapist
+185,20000,1,Art therapist
+186,60000,0,Art therapist
+187,140000,0,Art therapist
+188,40000,0,Art therapist
+189,40000,2,Arts administrator
+190,120000,0,Arts administrator
+191,100000,0,Arts administrator
+192,140000,0,Arts administrator
+193,80000,1,Arts administrator
+194,20000,0,Arts administrator
+195,60000,0,Arts administrator
+196,100000,37,Auditor
+197,20000,139,Auditor
+198,140000,30,Auditor
+199,120000,33,Auditor
+200,60000,81,Auditor
+201,80000,65,Auditor
+202,40000,44,Auditor
+203,100000,1,Automotive engineer
+204,140000,0,Automotive engineer
+205,120000,0,Automotive engineer
+206,40000,2,Automotive engineer
+207,60000,1,Automotive engineer
+208,20000,1,Automotive engineer
+209,80000,3,Automotive engineer
+210,120000,0,Barrister
+211,80000,0,Barrister
+212,60000,0,Barrister
+213,40000,0,Barrister
+214,100000,0,Barrister
+215,20000,0,Barrister
+216,140000,0,Barrister
+217,120000,0,Barrister’s clerk
+218,60000,0,Barrister’s clerk
+219,100000,0,Barrister’s clerk
+220,80000,0,Barrister’s clerk
+221,140000,0,Barrister’s clerk
+222,20000,0,Barrister’s clerk
+223,40000,0,Barrister’s clerk
+224,80000,10,Bid manager
+225,20000,6,Bid manager
+226,60000,1,Bid manager
+227,100000,2,Bid manager
+228,140000,3,Bid manager
+229,120000,2,Bid manager
+230,40000,9,Bid manager
+231,140000,0,Bilingual secretary
+232,100000,0,Bilingual secretary
+233,80000,0,Bilingual secretary
+234,40000,0,Bilingual secretary
+235,20000,1,Bilingual secretary
+236,120000,0,Bilingual secretary
+237,60000,0,Bilingual secretary
+238,140000,2,Biomedical engineer
+239,20000,5,Biomedical engineer
+240,100000,4,Biomedical engineer
+241,60000,7,Biomedical engineer
+242,120000,4,Biomedical engineer
+243,80000,3,Biomedical engineer
+244,40000,4,Biomedical engineer
+245,120000,0,Biomedical scientist
+246,40000,0,Biomedical scientist
+247,140000,0,Biomedical scientist
+248,100000,1,Biomedical scientist
+249,20000,1,Biomedical scientist
+250,80000,2,Biomedical scientist
+251,60000,0,Biomedical scientist
+252,140000,0,Biotechnologist
+253,20000,0,Biotechnologist
+254,100000,0,Biotechnologist
+255,120000,0,Biotechnologist
+256,60000,0,Biotechnologist
+257,80000,0,Biotechnologist
+258,40000,0,Biotechnologist
+259,20000,0,Border force officer
+260,140000,0,Border force officer
+261,80000,0,Border force officer
+262,60000,0,Border force officer
+263,40000,0,Border force officer
+264,120000,0,Border force officer
+265,100000,0,Border force officer
+266,40000,65,Brand manager
+267,120000,7,Brand manager
+268,140000,6,Brand manager
+269,100000,4,Brand manager
+270,80000,5,Brand manager
+271,20000,29,Brand manager
+272,60000,38,Brand manager
+273,80000,0,Broadcasting presenter
+274,20000,0,Broadcasting presenter
+275,60000,0,Broadcasting presenter
+276,100000,0,Broadcasting presenter
+277,140000,0,Broadcasting presenter
+278,40000,0,Broadcasting presenter
+279,120000,0,Broadcasting presenter
+280,40000,0,Building control officer/surveyor
+281,140000,0,Building control officer/surveyor
+282,60000,0,Building control officer/surveyor
+283,100000,0,Building control officer/surveyor
+284,20000,0,Building control officer/surveyor
+285,120000,0,Building control officer/surveyor
+286,80000,0,Building control officer/surveyor
+287,80000,1,Building services engineer
+288,60000,7,Building services engineer
+289,40000,2,Building services engineer
+290,120000,1,Building services engineer
+291,140000,2,Building services engineer
+292,20000,0,Building services engineer
+293,100000,2,Building services engineer
+294,80000,0,Building surveyor
+295,140000,0,Building surveyor
+296,20000,0,Building surveyor
+297,60000,0,Building surveyor
+298,120000,0,Building surveyor
+299,40000,0,Building surveyor
+300,100000,0,Building surveyor
+301,40000,8,Business analyst
+302,140000,39,Business analyst
+303,60000,20,Business analyst
+304,20000,11,Business analyst
+305,100000,49,Business analyst
+306,120000,24,Business analyst
+307,80000,41,Business analyst
+308,20000,37,Camera operator
+309,140000,0,Camera operator
+310,100000,0,Camera operator
+311,60000,1,Camera operator
+312,120000,3,Camera operator
+313,80000,1,Camera operator
+314,40000,0,Camera operator
+315,20000,0,Careers adviser (higher education)
+316,140000,0,Careers adviser (higher education)
+317,80000,0,Careers adviser (higher education)
+318,60000,0,Careers adviser (higher education)
+319,100000,0,Careers adviser (higher education)
+320,120000,0,Careers adviser (higher education)
+321,40000,0,Careers adviser (higher education)
+322,80000,1,Careers adviser
+323,120000,1,Careers adviser
+324,20000,3,Careers adviser
+325,60000,1,Careers adviser
+326,100000,3,Careers adviser
+327,40000,1,Careers adviser
+328,140000,2,Careers adviser
+329,100000,1,Careers consultant
+330,60000,5,Careers consultant
+331,120000,0,Careers consultant
+332,80000,1,Careers consultant
+333,140000,0,Careers consultant
+334,20000,560,Careers consultant
+335,40000,34,Careers consultant
+336,40000,1,Cartographer
+337,80000,0,Cartographer
+338,100000,0,Cartographer
+339,60000,0,Cartographer
+340,120000,0,Cartographer
+341,20000,0,Cartographer
+342,140000,0,Cartographer
+343,80000,2,Catering manager
+344,120000,0,Catering manager
+345,60000,8,Catering manager
+346,20000,8,Catering manager
+347,100000,0,Catering manager
+348,140000,0,Catering manager
+349,40000,8,Catering manager
+350,100000,0,Charities administrator
+351,20000,0,Charities administrator
+352,140000,0,Charities administrator
+353,120000,0,Charities administrator
+354,40000,0,Charities administrator
+355,60000,0,Charities administrator
+356,80000,0,Charities administrator
+357,120000,0,Charities fundraiser
+358,40000,2,Charities fundraiser
+359,80000,0,Charities fundraiser
+360,60000,0,Charities fundraiser
+361,100000,0,Charities fundraiser
+362,20000,0,Charities fundraiser
+363,140000,1,Charities fundraiser
+364,80000,2,Chemical (process) engineer
+365,120000,1,Chemical (process) engineer
+366,100000,0,Chemical (process) engineer
+367,60000,0,Chemical (process) engineer
+368,20000,2,Chemical (process) engineer
+369,140000,2,Chemical (process) engineer
+370,40000,0,Chemical (process) engineer
+371,140000,0,Child psychotherapist
+372,100000,0,Child psychotherapist
+373,20000,0,Child psychotherapist
+374,60000,0,Child psychotherapist
+375,80000,0,Child psychotherapist
+376,120000,0,Child psychotherapist
+377,40000,0,Child psychotherapist
+378,100000,0,Children's nurse
+379,20000,1,Children's nurse
+380,140000,0,Children's nurse
+381,120000,0,Children's nurse
+382,80000,0,Children's nurse
+383,40000,1,Children's nurse
+384,60000,1,Children's nurse
+385,40000,2,Chiropractor
+386,20000,5,Chiropractor
+387,140000,0,Chiropractor
+388,60000,4,Chiropractor
+389,120000,0,Chiropractor
+390,100000,1,Chiropractor
+391,80000,1,Chiropractor
+392,120000,59,Civil engineer
+393,40000,13,Civil engineer
+394,140000,34,Civil engineer
+395,20000,22,Civil engineer
+396,80000,207,Civil engineer
+397,60000,90,Civil engineer
+398,100000,153,Civil engineer
+399,20000,0,Civil Service administrator
+400,120000,0,Civil Service administrator
+401,60000,0,Civil Service administrator
+402,100000,0,Civil Service administrator
+403,140000,0,Civil Service administrator
+404,80000,0,Civil Service administrator
+405,40000,0,Civil Service administrator
+406,140000,0,Clinical biochemist
+407,20000,0,Clinical biochemist
+408,80000,0,Clinical biochemist
+409,60000,0,Clinical biochemist
+410,40000,0,Clinical biochemist
+411,120000,0,Clinical biochemist
+412,100000,0,Clinical biochemist
+413,20000,0,Clinical cytogeneticist
+414,80000,0,Clinical cytogeneticist
+415,60000,0,Clinical cytogeneticist
+416,140000,0,Clinical cytogeneticist
+417,100000,0,Clinical cytogeneticist
+418,120000,0,Clinical cytogeneticist
+419,40000,0,Clinical cytogeneticist
+420,120000,0,Clinical microbiologist
+421,40000,0,Clinical microbiologist
+422,100000,0,Clinical microbiologist
+423,80000,0,Clinical microbiologist
+424,20000,0,Clinical microbiologist
+425,140000,0,Clinical microbiologist
+426,60000,0,Clinical microbiologist
+427,80000,0,Clinical molecular geneticist
+428,100000,0,Clinical molecular geneticist
+429,60000,0,Clinical molecular geneticist
+430,120000,0,Clinical molecular geneticist
+431,140000,0,Clinical molecular geneticist
+432,20000,0,Clinical molecular geneticist
+433,40000,0,Clinical molecular geneticist
+434,100000,1,Clinical research associate
+435,120000,0,Clinical research associate
+436,40000,2,Clinical research associate
+437,60000,1,Clinical research associate
+438,80000,1,Clinical research associate
+439,140000,0,Clinical research associate
+440,20000,2,Clinical research associate
+441,60000,0,Clinical scientist - tissue typing
+442,40000,0,Clinical scientist - tissue typing
+443,80000,0,Clinical scientist - tissue typing
+444,120000,0,Clinical scientist - tissue typing
+445,140000,0,Clinical scientist - tissue typing
+446,20000,0,Clinical scientist - tissue typing
+447,100000,0,Clinical scientist - tissue typing
+448,140000,0,Clothing and textile technologist
+449,100000,0,Clothing and textile technologist
+450,20000,0,Clothing and textile technologist
+451,60000,0,Clothing and textile technologist
+452,80000,0,Clothing and textile technologist
+453,120000,0,Clothing and textile technologist
+454,40000,0,Clothing and textile technologist
+455,60000,0,Colour technologist
+456,80000,0,Colour technologist
+457,140000,0,Colour technologist
+458,20000,0,Colour technologist
+459,100000,0,Colour technologist
+460,120000,0,Colour technologist
+461,40000,0,Colour technologist
+462,60000,0,Commercial airline pilot
+463,20000,0,Commercial airline pilot
+464,120000,0,Commercial airline pilot
+465,40000,0,Commercial airline pilot
+466,80000,0,Commercial airline pilot
+467,140000,0,Commercial airline pilot
+468,100000,0,Commercial airline pilot
+469,120000,0,Commercial horticulturist
+470,40000,0,Commercial horticulturist
+471,60000,0,Commercial horticulturist
+472,80000,0,Commercial horticulturist
+473,100000,0,Commercial horticulturist
+474,20000,0,Commercial horticulturist
+475,140000,0,Commercial horticulturist
+476,140000,0,Commercial/residential/rural surveyor
+477,100000,0,Commercial/residential/rural surveyor
+478,40000,0,Commercial/residential/rural surveyor
+479,80000,0,Commercial/residential/rural surveyor
+480,120000,0,Commercial/residential/rural surveyor
+481,20000,0,Commercial/residential/rural surveyor
+482,60000,0,Commercial/residential/rural surveyor
+483,80000,0,Commissioning editor
+484,60000,1,Commissioning editor
+485,40000,0,Commissioning editor
+486,120000,0,Commissioning editor
+487,140000,0,Commissioning editor
+488,20000,0,Commissioning editor
+489,100000,0,Commissioning editor
+490,40000,0,Commissioning engineer
+491,140000,0,Commissioning engineer
+492,100000,1,Commissioning engineer
+493,20000,0,Commissioning engineer
+494,60000,1,Commissioning engineer
+495,120000,1,Commissioning engineer
+496,80000,1,Commissioning engineer
+497,40000,0,Commodity broker
+498,120000,0,Commodity broker
+499,100000,0,Commodity broker
+500,140000,0,Commodity broker
+501,20000,0,Commodity broker
+502,80000,0,Commodity broker
+503,60000,1,Commodity broker
+504,140000,14,Communications engineer
+505,100000,16,Communications engineer
+506,40000,28,Communications engineer
+507,120000,13,Communications engineer
+508,20000,21,Communications engineer
+509,80000,11,Communications engineer
+510,60000,11,Communications engineer
+511,40000,0,Community arts worker
+512,80000,0,Community arts worker
+513,140000,0,Community arts worker
+514,100000,0,Community arts worker
+515,60000,0,Community arts worker
+516,20000,0,Community arts worker
+517,120000,0,Community arts worker
+518,60000,0,Community education officer
+519,80000,0,Community education officer
+520,140000,0,Community education officer
+521,20000,0,Community education officer
+522,100000,0,Community education officer
+523,120000,0,Community education officer
+524,40000,0,Community education officer
+525,140000,2,Community worker
+526,20000,32,Community worker
+527,80000,0,Community worker
+528,60000,1,Community worker
+529,40000,1,Community worker
+530,120000,0,Community worker
+531,100000,0,Community worker
+532,20000,0,Company secretary
+533,80000,0,Company secretary
+534,60000,0,Company secretary
+535,120000,0,Company secretary
+536,40000,0,Company secretary
+537,100000,0,Company secretary
+538,140000,0,Company secretary
+539,80000,0,Computer sales support
+540,120000,0,Computer sales support
+541,60000,0,Computer sales support
+542,100000,0,Computer sales support
+543,20000,0,Computer sales support
+544,140000,0,Computer sales support
+545,40000,0,Computer sales support
+546,40000,54,Computer scientist
+547,20000,24,Computer scientist
+548,140000,260,Computer scientist
+549,100000,208,Computer scientist
+550,60000,143,Computer scientist
+551,120000,191,Computer scientist
+552,80000,116,Computer scientist
+553,20000,5,Conference organiser
+554,140000,0,Conference organiser
+555,100000,0,Conference organiser
+556,40000,3,Conference organiser
+557,60000,1,Conference organiser
+558,80000,2,Conference organiser
+559,120000,0,Conference organiser
+560,20000,2003,Consultant
+561,80000,513,Consultant
+562,60000,587,Consultant
+563,40000,708,Consultant
+564,120000,282,Consultant
+565,100000,439,Consultant
+566,140000,318,Consultant
+567,80000,0,Control and instrumentation engineer
+568,120000,0,Control and instrumentation engineer
+569,20000,0,Control and instrumentation engineer
+570,60000,0,Control and instrumentation engineer
+571,100000,0,Control and instrumentation engineer
+572,140000,0,Control and instrumentation engineer
+573,40000,0,Control and instrumentation engineer
+574,120000,0,Corporate banker
+575,60000,0,Corporate banker
+576,40000,0,Corporate banker
+577,80000,0,Corporate banker
+578,100000,0,Corporate banker
+579,20000,0,Corporate banker
+580,140000,0,Corporate banker
+581,140000,0,Corporate treasurer
+582,40000,0,Corporate treasurer
+583,100000,0,Corporate treasurer
+584,20000,0,Corporate treasurer
+585,60000,0,Corporate treasurer
+586,120000,0,Corporate treasurer
+587,80000,0,Corporate treasurer
+588,120000,79,Counsellor
+589,40000,1032,Counsellor
+590,60000,313,Counsellor
+591,80000,162,Counsellor
+592,100000,144,Counsellor
+593,20000,736,Counsellor
+594,140000,86,Counsellor
+595,40000,0,Court reporter/verbatim reporter
+596,120000,0,Court reporter/verbatim reporter
+597,60000,0,Court reporter/verbatim reporter
+598,20000,0,Court reporter/verbatim reporter
+599,80000,0,Court reporter/verbatim reporter
+600,100000,0,Court reporter/verbatim reporter
+601,140000,0,Court reporter/verbatim reporter
+602,140000,0,Credit analyst
+603,20000,1,Credit analyst
+604,80000,4,Credit analyst
+605,100000,1,Credit analyst
+606,120000,1,Credit analyst
+607,60000,4,Credit analyst
+608,40000,2,Credit analyst
+609,40000,0,Crown Prosecution Service lawyer
+610,140000,0,Crown Prosecution Service lawyer
+611,20000,0,Crown Prosecution Service lawyer
+612,60000,0,Crown Prosecution Service lawyer
+613,100000,0,Crown Prosecution Service lawyer
+614,120000,0,Crown Prosecution Service lawyer
+615,80000,0,Crown Prosecution Service lawyer
+616,20000,0,Crystallographer
+617,140000,0,Crystallographer
+618,80000,0,Crystallographer
+619,100000,0,Crystallographer
+620,120000,0,Crystallographer
+621,60000,0,Crystallographer
+622,40000,0,Crystallographer
+623,100000,2,Curator
+624,140000,4,Curator
+625,40000,15,Curator
+626,120000,7,Curator
+627,60000,15,Curator
+628,20000,40,Curator
+629,80000,8,Curator
+630,140000,0,Customs officer
+631,20000,225,Customs officer
+632,100000,5,Customs officer
+633,60000,5,Customs officer
+634,40000,32,Customs officer
+635,80000,3,Customs officer
+636,120000,4,Customs officer
+637,100000,0,Cyber security specialist
+638,20000,0,Cyber security specialist
+639,140000,1,Cyber security specialist
+640,120000,0,Cyber security specialist
+641,40000,0,Cyber security specialist
+642,60000,0,Cyber security specialist
+643,80000,0,Cyber security specialist
+644,120000,0,Dance movement psychotherapist
+645,40000,0,Dance movement psychotherapist
+646,80000,0,Dance movement psychotherapist
+647,60000,0,Dance movement psychotherapist
+648,100000,0,Dance movement psychotherapist
+649,20000,0,Dance movement psychotherapist
+650,140000,0,Dance movement psychotherapist
+651,20000,18,Data analyst
+652,140000,13,Data analyst
+653,100000,17,Data analyst
+654,40000,19,Data analyst
+655,80000,8,Data analyst
+656,60000,16,Data analyst
+657,120000,14,Data analyst
+658,40000,7,Data scientist
+659,120000,60,Data scientist
+660,140000,105,Data scientist
+661,100000,42,Data scientist
+662,80000,24,Data scientist
+663,20000,3,Data scientist
+664,60000,18,Data scientist
+665,80000,0,Data visualisation analyst
+666,60000,0,Data visualisation analyst
+667,100000,0,Data visualisation analyst
+668,120000,1,Data visualisation analyst
+669,140000,0,Data visualisation analyst
+670,20000,0,Data visualisation analyst
+671,40000,0,Data visualisation analyst
+672,140000,8,Database administrator
+673,20000,6,Database administrator
+674,100000,5,Database administrator
+675,40000,8,Database administrator
+676,60000,8,Database administrator
+677,80000,9,Database administrator
+678,120000,9,Database administrator
+679,40000,0,Debt/finance adviser
+680,140000,0,Debt/finance adviser
+681,100000,1,Debt/finance adviser
+682,60000,0,Debt/finance adviser
+683,20000,0,Debt/finance adviser
+684,120000,0,Debt/finance adviser
+685,80000,1,Debt/finance adviser
+686,20000,2,Dental hygienist
+687,140000,1,Dental hygienist
+688,100000,0,Dental hygienist
+689,40000,2,Dental hygienist
+690,60000,3,Dental hygienist
+691,80000,3,Dental hygienist
+692,120000,0,Dental hygienist
+693,60000,2798,Dentist
+694,20000,8435,Dentist
+695,80000,2639,Dentist
+696,120000,847,Dentist
+697,40000,4282,Dentist
+698,100000,1755,Dentist
+699,140000,878,Dentist
+700,140000,110,Design engineer
+701,20000,64,Design engineer
+702,100000,161,Design engineer
+703,60000,164,Design engineer
+704,80000,267,Design engineer
+705,40000,92,Design engineer
+706,120000,98,Design engineer
+707,80000,5,Design manager (construction)
+708,40000,3,Design manager (construction)
+709,100000,11,Design manager (construction)
+710,140000,0,Design manager (construction)
+711,60000,2,Design manager (construction)
+712,20000,0,Design manager (construction)
+713,120000,3,Design manager (construction)
+714,60000,0,DevOps engineer
+715,20000,0,DevOps engineer
+716,120000,34,DevOps engineer
+717,80000,4,DevOps engineer
+718,40000,2,DevOps engineer
+719,100000,14,DevOps engineer
+720,140000,45,DevOps engineer
+721,100000,0,Dietitian
+722,40000,4,Dietitian
+723,120000,0,Dietitian
+724,60000,11,Dietitian
+725,140000,0,Dietitian
+726,20000,8,Dietitian
+727,80000,7,Dietitian
+728,60000,0,Diplomatic service
+729,20000,3,Diplomatic service
+730,80000,0,Diplomatic service
+731,120000,0,Diplomatic service
+732,40000,0,Diplomatic service
+733,100000,0,Diplomatic service
+734,140000,0,Diplomatic service
+735,20000,0,"Doctor (general practitioner, GP)"
+736,120000,0,"Doctor (general practitioner, GP)"
+737,60000,0,"Doctor (general practitioner, GP)"
+738,140000,0,"Doctor (general practitioner, GP)"
+739,100000,0,"Doctor (general practitioner, GP)"
+740,40000,0,"Doctor (general practitioner, GP)"
+741,80000,0,"Doctor (general practitioner, GP)"
+742,60000,2,Doctor (hospital)
+743,20000,7,Doctor (hospital)
+744,80000,0,Doctor (hospital)
+745,40000,0,Doctor (hospital)
+746,120000,0,Doctor (hospital)
+747,100000,0,Doctor (hospital)
+748,140000,1,Doctor (hospital)
+749,80000,0,Dramatherapist
+750,40000,0,Dramatherapist
+751,100000,0,Dramatherapist
+752,140000,0,Dramatherapist
+753,60000,0,Dramatherapist
+754,120000,0,Dramatherapist
+755,20000,0,Dramatherapist
+756,80000,3,Economist
+757,20000,1,Economist
+758,140000,0,Economist
+759,60000,2,Economist
+760,120000,1,Economist
+761,40000,1,Economist
+762,100000,0,Economist
+763,80000,0,Editorial assistant
+764,140000,0,Editorial assistant
+765,20000,0,Editorial assistant
+766,60000,1,Editorial assistant
+767,120000,0,Editorial assistant
+768,40000,0,Editorial assistant
+769,100000,0,Editorial assistant
+770,80000,7,Education administrator
+771,100000,5,Education administrator
+772,120000,3,Education administrator
+773,60000,18,Education administrator
+774,20000,23,Education administrator
+775,140000,0,Education administrator
+776,40000,8,Education administrator
+777,120000,70,Electrical engineer
+778,40000,40,Electrical engineer
+779,80000,145,Electrical engineer
+780,60000,136,Electrical engineer
+781,100000,103,Electrical engineer
+782,140000,78,Electrical engineer
+783,20000,32,Electrical engineer
+784,120000,7,Electronics engineer
+785,80000,8,Electronics engineer
+786,140000,17,Electronics engineer
+787,40000,10,Electronics engineer
+788,100000,16,Electronics engineer
+789,20000,14,Electronics engineer
+790,60000,16,Electronics engineer
+791,80000,0,Energy conservation officer
+792,120000,0,Energy conservation officer
+793,60000,0,Energy conservation officer
+794,100000,0,Energy conservation officer
+795,20000,0,Energy conservation officer
+796,40000,0,Energy conservation officer
+797,140000,0,Energy conservation officer
+798,80000,0,Energy consultant
+799,120000,0,Energy consultant
+800,20000,5,Energy consultant
+801,60000,3,Energy consultant
+802,100000,0,Energy consultant
+803,40000,0,Energy consultant
+804,140000,0,Energy consultant
+805,140000,0,Engineering geologist
+806,20000,0,Engineering geologist
+807,80000,3,Engineering geologist
+808,60000,0,Engineering geologist
+809,40000,0,Engineering geologist
+810,120000,1,Engineering geologist
+811,100000,0,Engineering geologist
+812,40000,0,Environmental education officer
+813,100000,0,Environmental education officer
+814,60000,0,Environmental education officer
+815,120000,0,Environmental education officer
+816,80000,0,Environmental education officer
+817,140000,0,Environmental education officer
+818,20000,0,Environmental education officer
+819,120000,0,Environmental health officer
+820,60000,1,Environmental health officer
+821,40000,0,Environmental health officer
+822,80000,0,Environmental health officer
+823,100000,0,Environmental health officer
+824,140000,0,Environmental health officer
+825,20000,0,Environmental health officer
+826,120000,6,Environmental manager
+827,80000,15,Environmental manager
+828,60000,24,Environmental manager
+829,40000,9,Environmental manager
+830,100000,15,Environmental manager
+831,140000,4,Environmental manager
+832,20000,13,Environmental manager
+833,140000,1,Environmental scientist
+834,60000,15,Environmental scientist
+835,20000,11,Environmental scientist
+836,80000,11,Environmental scientist
+837,100000,9,Environmental scientist
+838,120000,11,Environmental scientist
+839,40000,9,Environmental scientist
+840,140000,0,Equal opportunities officer
+841,20000,0,Equal opportunities officer
+842,80000,0,Equal opportunities officer
+843,60000,1,Equal opportunities officer
+844,40000,7,Equal opportunities officer
+845,120000,0,Equal opportunities officer
+846,100000,0,Equal opportunities officer
+847,40000,0,Equality and diversity officer
+848,120000,0,Equality and diversity officer
+849,100000,0,Equality and diversity officer
+850,20000,0,Equality and diversity officer
+851,140000,0,Equality and diversity officer
+852,80000,0,Equality and diversity officer
+853,60000,0,Equality and diversity officer
+854,60000,0,Ergonomist
+855,80000,0,Ergonomist
+856,40000,0,Ergonomist
+857,120000,0,Ergonomist
+858,20000,0,Ergonomist
+859,140000,0,Ergonomist
+860,100000,0,Ergonomist
+861,100000,1,Estate agent
+862,140000,0,Estate agent
+863,40000,3,Estate agent
+864,120000,0,Estate agent
+865,80000,11,Estate agent
+866,20000,7,Estate agent
+867,60000,1,Estate agent
+868,120000,177,Estimator
+869,40000,310,Estimator
+870,140000,130,Estimator
+871,100000,267,Estimator
+872,20000,272,Estimator
+873,60000,339,Estimator
+874,80000,350,Estimator
+875,80000,0,Exhibition display designer
+876,40000,0,Exhibition display designer
+877,100000,0,Exhibition display designer
+878,140000,0,Exhibition display designer
+879,60000,0,Exhibition display designer
+880,20000,0,Exhibition display designer
+881,120000,0,Exhibition display designer
+882,140000,0,Exhibition organiser
+883,20000,8,Exhibition organiser
+884,100000,2,Exhibition organiser
+885,80000,0,Exhibition organiser
+886,60000,3,Exhibition organiser
+887,40000,4,Exhibition organiser
+888,120000,0,Exhibition organiser
+889,120000,0,Exploration geologist
+890,80000,0,Exploration geologist
+891,60000,0,Exploration geologist
+892,40000,0,Exploration geologist
+893,100000,0,Exploration geologist
+894,140000,0,Exploration geologist
+895,20000,0,Exploration geologist
+896,100000,22,Facilities manager
+897,20000,171,Facilities manager
+898,140000,10,Facilities manager
+899,120000,15,Facilities manager
+900,40000,99,Facilities manager
+901,80000,32,Facilities manager
+902,60000,73,Facilities manager
+903,100000,0,Field trials officer
+904,40000,0,Field trials officer
+905,120000,0,Field trials officer
+906,60000,0,Field trials officer
+907,20000,0,Field trials officer
+908,140000,0,Field trials officer
+909,80000,0,Field trials officer
+910,80000,134,Financial manager
+911,120000,46,Financial manager
+912,20000,74,Financial manager
+913,100000,69,Financial manager
+914,60000,152,Financial manager
+915,140000,57,Financial manager
+916,40000,172,Financial manager
+917,20000,0,Fire engineer
+918,140000,1,Fire engineer
+919,80000,2,Fire engineer
+920,60000,1,Fire engineer
+921,40000,2,Fire engineer
+922,120000,4,Fire engineer
+923,100000,4,Fire engineer
+924,140000,0,Firefighter
+925,20000,15,Firefighter
+926,80000,0,Firefighter
+927,100000,0,Firefighter
+928,120000,0,Firefighter
+929,60000,4,Firefighter
+930,40000,7,Firefighter
+931,120000,0,Fisheries enforcement officer
+932,40000,0,Fisheries enforcement officer
+933,100000,0,Fisheries enforcement officer
+934,80000,0,Fisheries enforcement officer
+935,20000,0,Fisheries enforcement officer
+936,140000,0,Fisheries enforcement officer
+937,60000,0,Fisheries enforcement officer
+938,140000,0,Fitness centre manager
+939,100000,0,Fitness centre manager
+940,60000,0,Fitness centre manager
+941,20000,0,Fitness centre manager
+942,80000,0,Fitness centre manager
+943,120000,0,Fitness centre manager
+944,40000,1,Fitness centre manager
+945,120000,1,Food scientist
+946,80000,2,Food scientist
+947,40000,11,Food scientist
+948,140000,5,Food scientist
+949,20000,38,Food scientist
+950,100000,3,Food scientist
+951,60000,12,Food scientist
+952,100000,0,Food technologist
+953,140000,0,Food technologist
+954,20000,0,Food technologist
+955,120000,0,Food technologist
+956,40000,0,Food technologist
+957,60000,0,Food technologist
+958,80000,0,Food technologist
+959,140000,0,Forensic scientist
+960,80000,1,Forensic scientist
+961,20000,0,Forensic scientist
+962,60000,0,Forensic scientist
+963,100000,1,Forensic scientist
+964,120000,0,Forensic scientist
+965,40000,0,Forensic scientist
+966,40000,13,Freight forwarder
+967,140000,0,Freight forwarder
+968,20000,28,Freight forwarder
+969,60000,5,Freight forwarder
+970,120000,0,Freight forwarder
+971,100000,2,Freight forwarder
+972,80000,1,Freight forwarder
+973,120000,0,Geneticist
+974,40000,0,Geneticist
+975,140000,0,Geneticist
+976,20000,0,Geneticist
+977,60000,0,Geneticist
+978,80000,0,Geneticist
+979,100000,0,Geneticist
+980,100000,0,Geographical information systems manager
+981,60000,0,Geographical information systems manager
+982,20000,0,Geographical information systems manager
+983,40000,0,Geographical information systems manager
+984,140000,0,Geographical information systems manager
+985,80000,0,Geographical information systems manager
+986,120000,0,Geographical information systems manager
+987,140000,0,Geomatics/land surveyor
+988,100000,0,Geomatics/land surveyor
+989,40000,0,Geomatics/land surveyor
+990,80000,0,Geomatics/land surveyor
+991,20000,0,Geomatics/land surveyor
+992,120000,0,Geomatics/land surveyor
+993,60000,0,Geomatics/land surveyor
+994,60000,0,Government lawyer
+995,20000,2,Government lawyer
+996,100000,0,Government lawyer
+997,140000,0,Government lawyer
+998,40000,0,Government lawyer
+999,80000,0,Government lawyer
+1000,120000,0,Government lawyer
+1001,140000,0,Government research officer
+1002,40000,0,Government research officer
+1003,60000,0,Government research officer
+1004,100000,0,Government research officer
+1005,20000,0,Government research officer
+1006,120000,0,Government research officer
+1007,80000,0,Government research officer
+1008,120000,9,Graphic designer
+1009,80000,14,Graphic designer
+1010,140000,7,Graphic designer
+1011,40000,25,Graphic designer
+1012,60000,22,Graphic designer
+1013,20000,56,Graphic designer
+1014,100000,13,Graphic designer
+1015,20000,0,Health and safety adviser
+1016,80000,0,Health and safety adviser
+1017,60000,0,Health and safety adviser
+1018,140000,0,Health and safety adviser
+1019,100000,0,Health and safety adviser
+1020,120000,0,Health and safety adviser
+1021,40000,0,Health and safety adviser
+1022,80000,0,Health and safety inspector
+1023,20000,0,Health and safety inspector
+1024,60000,1,Health and safety inspector
+1025,120000,0,Health and safety inspector
+1026,40000,0,Health and safety inspector
+1027,140000,0,Health and safety inspector
+1028,100000,0,Health and safety inspector
+1029,140000,0,Health promotion specialist
+1030,20000,0,Health promotion specialist
+1031,100000,0,Health promotion specialist
+1032,60000,0,Health promotion specialist
+1033,40000,0,Health promotion specialist
+1034,80000,0,Health promotion specialist
+1035,120000,0,Health promotion specialist
+1036,40000,0,Health service manager
+1037,120000,0,Health service manager
+1038,100000,1,Health service manager
+1039,140000,0,Health service manager
+1040,60000,1,Health service manager
+1041,20000,6,Health service manager
+1042,80000,1,Health service manager
+1043,120000,0,Health visitor
+1044,40000,0,Health visitor
+1045,140000,0,Health visitor
+1046,100000,0,Health visitor
+1047,20000,0,Health visitor
+1048,60000,0,Health visitor
+1049,80000,1,Health visitor
+1050,100000,0,Herbalist
+1051,140000,0,Herbalist
+1052,20000,0,Herbalist
+1053,120000,0,Herbalist
+1054,60000,0,Herbalist
+1055,80000,0,Herbalist
+1056,40000,0,Herbalist
+1057,60000,0,Heritage manager
+1058,100000,1,Heritage manager
+1059,120000,0,Heritage manager
+1060,80000,0,Heritage manager
+1061,20000,0,Heritage manager
+1062,140000,0,Heritage manager
+1063,40000,0,Heritage manager
+1064,80000,0,Higher education administrator
+1065,60000,0,Higher education administrator
+1066,40000,0,Higher education administrator
+1067,120000,1,Higher education administrator
+1068,140000,0,Higher education administrator
+1069,20000,0,Higher education administrator
+1070,100000,0,Higher education administrator
+1071,100000,0,Higher education advice worker
+1072,140000,0,Higher education advice worker
+1073,40000,0,Higher education advice worker
+1074,120000,0,Higher education advice worker
+1075,60000,0,Higher education advice worker
+1076,80000,0,Higher education advice worker
+1077,20000,0,Higher education advice worker
+1078,40000,0,Homeless support worker
+1079,80000,0,Homeless support worker
+1080,60000,0,Homeless support worker
+1081,120000,0,Homeless support worker
+1082,20000,0,Homeless support worker
+1083,140000,0,Homeless support worker
+1084,100000,0,Homeless support worker
+1085,20000,0,Horticultural consultant
+1086,140000,0,Horticultural consultant
+1087,100000,0,Horticultural consultant
+1088,40000,0,Horticultural consultant
+1089,80000,0,Horticultural consultant
+1090,60000,0,Horticultural consultant
+1091,120000,0,Horticultural consultant
+1092,40000,46,Hotel manager
+1093,60000,22,Hotel manager
+1094,80000,8,Hotel manager
+1095,120000,3,Hotel manager
+1096,20000,140,Hotel manager
+1097,140000,2,Hotel manager
+1098,100000,5,Hotel manager
+1099,120000,0,Housing adviser
+1100,40000,0,Housing adviser
+1101,100000,0,Housing adviser
+1102,140000,4,Housing adviser
+1103,60000,0,Housing adviser
+1104,80000,0,Housing adviser
+1105,20000,1,Housing adviser
+1106,20000,14,Human resources officer
+1107,80000,2,Human resources officer
+1108,60000,1,Human resources officer
+1109,140000,0,Human resources officer
+1110,100000,2,Human resources officer
+1111,120000,0,Human resources officer
+1112,40000,8,Human resources officer
+1113,80000,0,Hydrologist
+1114,120000,0,Hydrologist
+1115,20000,0,Hydrologist
+1116,60000,0,Hydrologist
+1117,100000,0,Hydrologist
+1118,140000,0,Hydrologist
+1119,40000,0,Hydrologist
+1120,20000,116,Illustrator
+1121,140000,12,Illustrator
+1122,100000,5,Illustrator
+1123,40000,36,Illustrator
+1124,80000,17,Illustrator
+1125,60000,27,Illustrator
+1126,120000,5,Illustrator
+1127,40000,0,Immigration officer
+1128,140000,1,Immigration officer
+1129,60000,0,Immigration officer
+1130,100000,0,Immigration officer
+1131,20000,1,Immigration officer
+1132,120000,0,Immigration officer
+1133,80000,0,Immigration officer
+1134,80000,0,Immunologist
+1135,20000,0,Immunologist
+1136,140000,0,Immunologist
+1137,60000,0,Immunologist
+1138,120000,0,Immunologist
+1139,40000,0,Immunologist
+1140,100000,0,Immunologist
+1141,60000,0,Industrial/product designer
+1142,20000,0,Industrial/product designer
+1143,100000,0,Industrial/product designer
+1144,40000,0,Industrial/product designer
+1145,140000,1,Industrial/product designer
+1146,80000,0,Industrial/product designer
+1147,120000,0,Industrial/product designer
+1148,80000,27,Information scientist
+1149,120000,26,Information scientist
+1150,20000,69,Information scientist
+1151,60000,20,Information scientist
+1152,100000,36,Information scientist
+1153,40000,18,Information scientist
+1154,140000,42,Information scientist
+1155,120000,8,Information systems manager
+1156,80000,7,Information systems manager
+1157,60000,25,Information systems manager
+1158,40000,18,Information systems manager
+1159,100000,11,Information systems manager
+1160,140000,16,Information systems manager
+1161,20000,20,Information systems manager
+1162,120000,0,Information technology/software trainers
+1163,80000,0,Information technology/software trainers
+1164,140000,0,Information technology/software trainers
+1165,40000,0,Information technology/software trainers
+1166,60000,0,Information technology/software trainers
+1167,100000,0,Information technology/software trainers
+1168,20000,0,Information technology/software trainers
+1169,60000,5,Insurance broker
+1170,20000,3,Insurance broker
+1171,140000,1,Insurance broker
+1172,80000,0,Insurance broker
+1173,100000,1,Insurance broker
+1174,40000,3,Insurance broker
+1175,120000,2,Insurance broker
+1176,20000,0,Insurance claims inspector
+1177,140000,0,Insurance claims inspector
+1178,100000,0,Insurance claims inspector
+1179,60000,0,Insurance claims inspector
+1180,80000,0,Insurance claims inspector
+1181,40000,0,Insurance claims inspector
+1182,120000,0,Insurance claims inspector
+1183,20000,0,Insurance risk surveyor
+1184,140000,0,Insurance risk surveyor
+1185,100000,0,Insurance risk surveyor
+1186,40000,0,Insurance risk surveyor
+1187,80000,0,Insurance risk surveyor
+1188,60000,0,Insurance risk surveyor
+1189,120000,0,Insurance risk surveyor
+1190,60000,127,Insurance underwriter
+1191,80000,4,Insurance underwriter
+1192,20000,6,Insurance underwriter
+1193,120000,8,Insurance underwriter
+1194,40000,1,Insurance underwriter
+1195,140000,6,Insurance underwriter
+1196,100000,6,Insurance underwriter
+1197,140000,87,Interpreter
+1198,20000,1581,Interpreter
+1199,100000,176,Interpreter
+1200,40000,689,Interpreter
+1201,60000,444,Interpreter
+1202,80000,315,Interpreter
+1203,120000,115,Interpreter
+1204,100000,0,Investment analyst
+1205,60000,0,Investment analyst
+1206,120000,2,Investment analyst
+1207,80000,0,Investment analyst
+1208,20000,0,Investment analyst
+1209,140000,0,Investment analyst
+1210,40000,1,Investment analyst
+1211,60000,0,Investment banker - corporate finance
+1212,80000,0,Investment banker - corporate finance
+1213,20000,0,Investment banker - corporate finance
+1214,120000,0,Investment banker - corporate finance
+1215,40000,0,Investment banker - corporate finance
+1216,100000,0,Investment banker - corporate finance
+1217,140000,0,Investment banker - corporate finance
+1218,40000,0,Investment banker – operations
+1219,120000,0,Investment banker – operations
+1220,100000,0,Investment banker – operations
+1221,140000,0,Investment banker – operations
+1222,20000,0,Investment banker – operations
+1223,80000,0,Investment banker – operations
+1224,60000,0,Investment banker – operations
+1225,20000,0,Investment fund manager
+1226,120000,0,Investment fund manager
+1227,60000,0,Investment fund manager
+1228,140000,0,Investment fund manager
+1229,100000,0,Investment fund manager
+1230,40000,0,Investment fund manager
+1231,80000,1,Investment fund manager
+1232,100000,13,IT consultant
+1233,140000,15,IT consultant
+1234,40000,12,IT consultant
+1235,80000,17,IT consultant
+1236,20000,5,IT consultant
+1237,120000,7,IT consultant
+1238,60000,26,IT consultant
+1239,100000,0,IT support analyst
+1240,140000,0,IT support analyst
+1241,40000,1,IT support analyst
+1242,120000,0,IT support analyst
+1243,60000,0,IT support analyst
+1244,80000,0,IT support analyst
+1245,20000,1,IT support analyst
+1246,140000,20,Journalist
+1247,100000,39,Journalist
+1248,80000,73,Journalist
+1249,40000,173,Journalist
+1250,120000,29,Journalist
+1251,20000,261,Journalist
+1252,60000,140,Journalist
+1253,40000,34,Laboratory technician
+1254,60000,19,Laboratory technician
+1255,80000,19,Laboratory technician
+1256,120000,1,Laboratory technician
+1257,20000,150,Laboratory technician
+1258,140000,1,Laboratory technician
+1259,100000,5,Laboratory technician
+1260,60000,0,Land-based engineer
+1261,20000,0,Land-based engineer
+1262,80000,0,Land-based engineer
+1263,120000,0,Land-based engineer
+1264,40000,0,Land-based engineer
+1265,100000,0,Land-based engineer
+1266,140000,0,Land-based engineer
+1267,40000,0,Landscape architect
+1268,80000,5,Landscape architect
+1269,140000,1,Landscape architect
+1270,100000,0,Landscape architect
+1271,60000,4,Landscape architect
+1272,120000,1,Landscape architect
+1273,20000,4,Landscape architect
+1274,100000,0,Learning disability nurse
+1275,140000,0,Learning disability nurse
+1276,20000,0,Learning disability nurse
+1277,120000,0,Learning disability nurse
+1278,60000,0,Learning disability nurse
+1279,80000,0,Learning disability nurse
+1280,40000,0,Learning disability nurse
+1281,80000,0,Learning mentor
+1282,20000,16,Learning mentor
+1283,60000,1,Learning mentor
+1284,120000,0,Learning mentor
+1285,40000,10,Learning mentor
+1286,100000,0,Learning mentor
+1287,140000,0,Learning mentor
+1288,100000,0,Lecturer (adult education)
+1289,20000,0,Lecturer (adult education)
+1290,140000,0,Lecturer (adult education)
+1291,120000,0,Lecturer (adult education)
+1292,40000,0,Lecturer (adult education)
+1293,60000,0,Lecturer (adult education)
+1294,80000,0,Lecturer (adult education)
+1295,100000,0,Lecturer (further education)
+1296,80000,0,Lecturer (further education)
+1297,20000,0,Lecturer (further education)
+1298,60000,0,Lecturer (further education)
+1299,140000,0,Lecturer (further education)
+1300,40000,0,Lecturer (further education)
+1301,120000,0,Lecturer (further education)
+1302,20000,0,Lecturer (higher education)
+1303,140000,0,Lecturer (higher education)
+1304,100000,0,Lecturer (higher education)
+1305,40000,0,Lecturer (higher education)
+1306,80000,0,Lecturer (higher education)
+1307,60000,0,Lecturer (higher education)
+1308,120000,0,Lecturer (higher education)
+1309,140000,0,Legal executive
+1310,80000,2,Legal executive
+1311,20000,0,Legal executive
+1312,60000,2,Legal executive
+1313,100000,1,Legal executive
+1314,120000,1,Legal executive
+1315,40000,1,Legal executive
+1316,60000,0,Leisure centre manager
+1317,140000,0,Leisure centre manager
+1318,20000,0,Leisure centre manager
+1319,80000,0,Leisure centre manager
+1320,100000,0,Leisure centre manager
+1321,40000,0,Leisure centre manager
+1322,120000,0,Leisure centre manager
+1323,140000,0,Licensed conveyancer
+1324,100000,0,Licensed conveyancer
+1325,40000,0,Licensed conveyancer
+1326,120000,0,Licensed conveyancer
+1327,60000,0,Licensed conveyancer
+1328,80000,0,Licensed conveyancer
+1329,20000,0,Licensed conveyancer
+1330,140000,0,Local government administrator
+1331,100000,0,Local government administrator
+1332,40000,0,Local government administrator
+1333,120000,0,Local government administrator
+1334,80000,0,Local government administrator
+1335,20000,0,Local government administrator
+1336,60000,0,Local government administrator
+1337,20000,0,Local government lawyer
+1338,140000,0,Local government lawyer
+1339,100000,0,Local government lawyer
+1340,80000,0,Local government lawyer
+1341,60000,0,Local government lawyer
+1342,40000,0,Local government lawyer
+1343,120000,0,Local government lawyer
+1344,140000,0,Logistics/distribution manager
+1345,20000,0,Logistics/distribution manager
+1346,100000,1,Logistics/distribution manager
+1347,80000,0,Logistics/distribution manager
+1348,60000,0,Logistics/distribution manager
+1349,40000,0,Logistics/distribution manager
+1350,120000,0,Logistics/distribution manager
+1351,20000,0,Magazine features editor
+1352,80000,0,Magazine features editor
+1353,60000,0,Magazine features editor
+1354,40000,0,Magazine features editor
+1355,120000,0,Magazine features editor
+1356,140000,0,Magazine features editor
+1357,100000,0,Magazine features editor
+1358,100000,1,Magazine journalist
+1359,140000,0,Magazine journalist
+1360,20000,0,Magazine journalist
+1361,120000,0,Magazine journalist
+1362,80000,0,Magazine journalist
+1363,60000,0,Magazine journalist
+1364,40000,0,Magazine journalist
+1365,80000,11,Maintenance engineer
+1366,20000,38,Maintenance engineer
+1367,60000,13,Maintenance engineer
+1368,40000,24,Maintenance engineer
+1369,120000,3,Maintenance engineer
+1370,140000,3,Maintenance engineer
+1371,100000,14,Maintenance engineer
+1372,60000,65,Management accountant
+1373,140000,31,Management accountant
+1374,20000,41,Management accountant
+1375,80000,57,Management accountant
+1376,100000,63,Management accountant
+1377,40000,63,Management accountant
+1378,120000,49,Management accountant
+1379,120000,25,Manufacturing engineer
+1380,40000,57,Manufacturing engineer
+1381,60000,45,Manufacturing engineer
+1382,80000,64,Manufacturing engineer
+1383,100000,48,Manufacturing engineer
+1384,20000,52,Manufacturing engineer
+1385,140000,25,Manufacturing engineer
+1386,20000,167,Manufacturing machine operator
+1387,140000,0,Manufacturing machine operator
+1388,100000,0,Manufacturing machine operator
+1389,40000,1,Manufacturing machine operator
+1390,80000,0,Manufacturing machine operator
+1391,60000,0,Manufacturing machine operator
+1392,120000,0,Manufacturing machine operator
+1393,100000,0,Manufacturing toolmaker
+1394,40000,0,Manufacturing toolmaker
+1395,120000,0,Manufacturing toolmaker
+1396,60000,0,Manufacturing toolmaker
+1397,140000,0,Manufacturing toolmaker
+1398,20000,0,Manufacturing toolmaker
+1399,80000,0,Manufacturing toolmaker
+1400,120000,0,Marine scientist
+1401,80000,0,Marine scientist
+1402,40000,0,Marine scientist
+1403,140000,0,Marine scientist
+1404,100000,0,Marine scientist
+1405,20000,0,Marine scientist
+1406,60000,1,Marine scientist
+1407,120000,0,Market research analyst
+1408,80000,1,Market research analyst
+1409,40000,0,Market research analyst
+1410,140000,0,Market research analyst
+1411,100000,0,Market research analyst
+1412,20000,0,Market research analyst
+1413,60000,0,Market research analyst
+1414,120000,0,Market research executive
+1415,40000,0,Market research executive
+1416,80000,0,Market research executive
+1417,60000,0,Market research executive
+1418,100000,1,Market research executive
+1419,20000,0,Market research executive
+1420,140000,0,Market research executive
+1421,100000,3,Marketing assistant
+1422,80000,3,Marketing assistant
+1423,20000,46,Marketing assistant
+1424,60000,12,Marketing assistant
+1425,140000,2,Marketing assistant
+1426,40000,33,Marketing assistant
+1427,120000,0,Marketing assistant
+1428,100000,19,Marketing executive
+1429,20000,12,Marketing executive
+1430,60000,26,Marketing executive
+1431,80000,16,Marketing executive
+1432,140000,10,Marketing executive
+1433,40000,47,Marketing executive
+1434,120000,28,Marketing executive
+1435,60000,0,Marketing manager (direct)
+1436,120000,0,Marketing manager (direct)
+1437,20000,1,Marketing manager (direct)
+1438,80000,1,Marketing manager (direct)
+1439,40000,2,Marketing manager (direct)
+1440,140000,0,Marketing manager (direct)
+1441,100000,0,Marketing manager (direct)
+1442,20000,3,Marketing manager (social media)
+1443,140000,0,Marketing manager (social media)
+1444,100000,0,Marketing manager (social media)
+1445,40000,1,Marketing manager (social media)
+1446,60000,1,Marketing manager (social media)
+1447,80000,2,Marketing manager (social media)
+1448,120000,0,Marketing manager (social media)
+1449,140000,11,Materials engineer
+1450,100000,14,Materials engineer
+1451,120000,2,Materials engineer
+1452,40000,15,Materials engineer
+1453,60000,8,Materials engineer
+1454,20000,9,Materials engineer
+1455,80000,5,Materials engineer
+1456,120000,0,Materials specialist
+1457,40000,3,Materials specialist
+1458,140000,0,Materials specialist
+1459,60000,1,Materials specialist
+1460,80000,1,Materials specialist
+1461,20000,36,Materials specialist
+1462,100000,0,Materials specialist
+1463,40000,46,Mechanical engineer
+1464,140000,27,Mechanical engineer
+1465,20000,32,Mechanical engineer
+1466,80000,103,Mechanical engineer
+1467,100000,77,Mechanical engineer
+1468,120000,50,Mechanical engineer
+1469,60000,55,Mechanical engineer
+1470,20000,1,Media analyst
+1471,140000,3,Media analyst
+1472,100000,0,Media analyst
+1473,80000,3,Media analyst
+1474,60000,0,Media analyst
+1475,40000,0,Media analyst
+1476,120000,1,Media analyst
+1477,40000,0,Media buyer
+1478,60000,5,Media buyer
+1479,80000,0,Media buyer
+1480,120000,0,Media buyer
+1481,20000,0,Media buyer
+1482,140000,0,Media buyer
+1483,100000,0,Media buyer
+1484,140000,0,Media planner
+1485,100000,0,Media planner
+1486,120000,0,Media planner
+1487,40000,0,Media planner
+1488,80000,0,Media planner
+1489,20000,0,Media planner
+1490,60000,2,Media planner
+1491,20000,0,Medical physicist
+1492,140000,0,Medical physicist
+1493,80000,0,Medical physicist
+1494,60000,0,Medical physicist
+1495,40000,0,Medical physicist
+1496,120000,0,Medical physicist
+1497,100000,1,Medical physicist
+1498,80000,0,Medical representative
+1499,120000,0,Medical representative
+1500,60000,1,Medical representative
+1501,100000,0,Medical representative
+1502,20000,20,Medical representative
+1503,140000,0,Medical representative
+1504,40000,5,Medical representative
+1505,40000,17,Mental health nurse
+1506,60000,48,Mental health nurse
+1507,80000,84,Mental health nurse
+1508,120000,2,Mental health nurse
+1509,20000,22,Mental health nurse
+1510,140000,12,Mental health nurse
+1511,100000,23,Mental health nurse
+1512,120000,0,Metallurgist
+1513,80000,1,Metallurgist
+1514,140000,0,Metallurgist
+1515,40000,0,Metallurgist
+1516,60000,0,Metallurgist
+1517,100000,0,Metallurgist
+1518,20000,0,Metallurgist
+1519,20000,0,Meteorologist
+1520,140000,0,Meteorologist
+1521,100000,0,Meteorologist
+1522,40000,0,Meteorologist
+1523,60000,0,Meteorologist
+1524,80000,0,Meteorologist
+1525,120000,0,Meteorologist
+1526,60000,0,Microbiologist
+1527,40000,1,Microbiologist
+1528,80000,0,Microbiologist
+1529,120000,1,Microbiologist
+1530,140000,0,Microbiologist
+1531,20000,5,Microbiologist
+1532,100000,1,Microbiologist
+1533,120000,0,Midwife
+1534,40000,1,Midwife
+1535,140000,0,Midwife
+1536,100000,0,Midwife
+1537,60000,0,Midwife
+1538,80000,0,Midwife
+1539,20000,1,Midwife
+1540,120000,0,Mining engineer
+1541,40000,1,Mining engineer
+1542,60000,1,Mining engineer
+1543,80000,0,Mining engineer
+1544,100000,2,Mining engineer
+1545,20000,1,Mining engineer
+1546,140000,1,Mining engineer
+1547,100000,41,Mobile developer
+1548,140000,43,Mobile developer
+1549,120000,21,Mobile developer
+1550,40000,14,Mobile developer
+1551,80000,12,Mobile developer
+1552,20000,1,Mobile developer
+1553,60000,6,Mobile developer
+1554,120000,0,Multimedia programmer
+1555,40000,0,Multimedia programmer
+1556,80000,0,Multimedia programmer
+1557,60000,0,Multimedia programmer
+1558,100000,0,Multimedia programmer
+1559,20000,0,Multimedia programmer
+1560,140000,0,Multimedia programmer
+1561,80000,0,Multimedia specialists
+1562,120000,0,Multimedia specialists
+1563,100000,0,Multimedia specialists
+1564,20000,0,Multimedia specialists
+1565,60000,0,Multimedia specialists
+1566,40000,0,Multimedia specialists
+1567,140000,0,Multimedia specialists
+1568,120000,0,Museum education officer
+1569,40000,0,Museum education officer
+1570,140000,0,Museum education officer
+1571,100000,0,Museum education officer
+1572,60000,0,Museum education officer
+1573,20000,0,Museum education officer
+1574,80000,0,Museum education officer
+1575,20000,0,Museum/gallery exhibition officer
+1576,140000,0,Museum/gallery exhibition officer
+1577,60000,0,Museum/gallery exhibition officer
+1578,100000,0,Museum/gallery exhibition officer
+1579,120000,0,Museum/gallery exhibition officer
+1580,80000,0,Museum/gallery exhibition officer
+1581,40000,0,Museum/gallery exhibition officer
+1582,120000,0,Music therapist
+1583,80000,0,Music therapist
+1584,140000,0,Music therapist
+1585,40000,0,Music therapist
+1586,100000,0,Music therapist
+1587,60000,0,Music therapist
+1588,20000,0,Music therapist
+1589,120000,0,Nanoscientist
+1590,40000,0,Nanoscientist
+1591,100000,0,Nanoscientist
+1592,140000,0,Nanoscientist
+1593,20000,0,Nanoscientist
+1594,80000,0,Nanoscientist
+1595,60000,0,Nanoscientist
+1596,140000,0,Nature conservation officer
+1597,100000,0,Nature conservation officer
+1598,120000,0,Nature conservation officer
+1599,40000,0,Nature conservation officer
+1600,60000,0,Nature conservation officer
+1601,20000,0,Nature conservation officer
+1602,80000,0,Nature conservation officer
+1603,100000,0,Naval architect
+1604,140000,0,Naval architect
+1605,20000,0,Naval architect
+1606,120000,0,Naval architect
+1607,60000,0,Naval architect
+1608,40000,0,Naval architect
+1609,80000,0,Naval architect
+1610,60000,12,Network administrator
+1611,20000,8,Network administrator
+1612,80000,10,Network administrator
+1613,140000,8,Network administrator
+1614,100000,18,Network administrator
+1615,120000,9,Network administrator
+1616,40000,13,Network administrator
+1617,80000,2237,Nurse
+1618,20000,1075,Nurse
+1619,60000,1693,Nurse
+1620,120000,621,Nurse
+1621,40000,1153,Nurse
+1622,140000,376,Nurse
+1623,100000,1310,Nurse
+1624,40000,1,Nutritional therapist
+1625,120000,0,Nutritional therapist
+1626,60000,0,Nutritional therapist
+1627,100000,0,Nutritional therapist
+1628,80000,1,Nutritional therapist
+1629,140000,0,Nutritional therapist
+1630,20000,1,Nutritional therapist
+1631,60000,9,Nutritionist
+1632,20000,8,Nutritionist
+1633,80000,0,Nutritionist
+1634,40000,1,Nutritionist
+1635,120000,1,Nutritionist
+1636,140000,2,Nutritionist
+1637,100000,4,Nutritionist
+1638,40000,4,Occupational therapist
+1639,120000,0,Occupational therapist
+1640,80000,16,Occupational therapist
+1641,20000,6,Occupational therapist
+1642,60000,38,Occupational therapist
+1643,100000,1,Occupational therapist
+1644,140000,1,Occupational therapist
+1645,40000,0,Oceanographer
+1646,120000,1,Oceanographer
+1647,60000,0,Oceanographer
+1648,80000,0,Oceanographer
+1649,20000,0,Oceanographer
+1650,100000,0,Oceanographer
+1651,140000,0,Oceanographer
+1652,80000,53,Office manager
+1653,100000,42,Office manager
+1654,60000,70,Office manager
+1655,120000,25,Office manager
+1656,20000,296,Office manager
+1657,140000,25,Office manager
+1658,40000,152,Office manager
+1659,80000,6,Operational researcher
+1660,60000,8,Operational researcher
+1661,40000,7,Operational researcher
+1662,120000,3,Operational researcher
+1663,140000,7,Operational researcher
+1664,20000,15,Operational researcher
+1665,100000,4,Operational researcher
+1666,120000,0,Orthoptist
+1667,80000,0,Orthoptist
+1668,140000,0,Orthoptist
+1669,40000,0,Orthoptist
+1670,100000,0,Orthoptist
+1671,60000,0,Orthoptist
+1672,20000,0,Orthoptist
+1673,20000,0,Outdoor pursuits manager
+1674,140000,0,Outdoor pursuits manager
+1675,100000,0,Outdoor pursuits manager
+1676,40000,0,Outdoor pursuits manager
+1677,80000,0,Outdoor pursuits manager
+1678,60000,0,Outdoor pursuits manager
+1679,120000,0,Outdoor pursuits manager
+1680,20000,0,Packaging technologist
+1681,120000,0,Packaging technologist
+1682,60000,0,Packaging technologist
+1683,100000,0,Packaging technologist
+1684,140000,0,Packaging technologist
+1685,40000,0,Packaging technologist
+1686,80000,0,Packaging technologist
+1687,40000,14,Paramedic
+1688,120000,0,Paramedic
+1689,100000,3,Paramedic
+1690,60000,44,Paramedic
+1691,20000,13,Paramedic
+1692,80000,5,Paramedic
+1693,140000,1,Paramedic
+1694,40000,0,Patent attorney
+1695,80000,0,Patent attorney
+1696,60000,0,Patent attorney
+1697,100000,0,Patent attorney
+1698,120000,0,Patent attorney
+1699,20000,0,Patent attorney
+1700,140000,3,Patent attorney
+1701,40000,0,Patent examiner
+1702,120000,0,Patent examiner
+1703,100000,0,Patent examiner
+1704,140000,0,Patent examiner
+1705,20000,0,Patent examiner
+1706,80000,0,Patent examiner
+1707,60000,0,Patent examiner
+1708,60000,0,Pension scheme manager
+1709,120000,0,Pension scheme manager
+1710,100000,0,Pension scheme manager
+1711,80000,0,Pension scheme manager
+1712,140000,0,Pension scheme manager
+1713,20000,0,Pension scheme manager
+1714,40000,0,Pension scheme manager
+1715,120000,0,Personal assistant
+1716,40000,0,Personal assistant
+1717,60000,0,Personal assistant
+1718,80000,0,Personal assistant
+1719,100000,0,Personal assistant
+1720,140000,0,Personal assistant
+1721,20000,2,Personal assistant
+1722,40000,0,Petroleum engineer
+1723,80000,0,Petroleum engineer
+1724,100000,0,Petroleum engineer
+1725,120000,0,Petroleum engineer
+1726,60000,0,Petroleum engineer
+1727,140000,0,Petroleum engineer
+1728,20000,0,Petroleum engineer
+1729,100000,5,Pharmacist
+1730,20000,129,Pharmacist
+1731,140000,13,Pharmacist
+1732,120000,5,Pharmacist
+1733,40000,50,Pharmacist
+1734,80000,10,Pharmacist
+1735,60000,25,Pharmacist
+1736,40000,0,Pharmacologist
+1737,140000,0,Pharmacologist
+1738,20000,0,Pharmacologist
+1739,100000,1,Pharmacologist
+1740,60000,5,Pharmacologist
+1741,120000,0,Pharmacologist
+1742,80000,0,Pharmacologist
+1743,60000,0,Pharmacovigilance officer
+1744,20000,0,Pharmacovigilance officer
+1745,140000,0,Pharmacovigilance officer
+1746,80000,0,Pharmacovigilance officer
+1747,100000,0,Pharmacovigilance officer
+1748,40000,0,Pharmacovigilance officer
+1749,120000,0,Pharmacovigilance officer
+1750,100000,11,Photographer
+1751,40000,25,Photographer
+1752,120000,9,Photographer
+1753,60000,20,Photographer
+1754,20000,68,Photographer
+1755,140000,7,Photographer
+1756,80000,8,Photographer
+1757,140000,0,Physiotherapist
+1758,20000,0,Physiotherapist
+1759,80000,0,Physiotherapist
+1760,60000,0,Physiotherapist
+1761,40000,0,Physiotherapist
+1762,120000,0,Physiotherapist
+1763,100000,0,Physiotherapist
+1764,40000,0,Picture researcher
+1765,80000,0,Picture researcher
+1766,100000,0,Picture researcher
+1767,140000,0,Picture researcher
+1768,60000,0,Picture researcher
+1769,120000,0,Picture researcher
+1770,20000,1,Picture researcher
+1771,120000,0,Planning and development surveyor
+1772,40000,0,Planning and development surveyor
+1773,100000,0,Planning and development surveyor
+1774,80000,0,Planning and development surveyor
+1775,140000,0,Planning and development surveyor
+1776,20000,0,Planning and development surveyor
+1777,60000,0,Planning and development surveyor
+1778,80000,0,Planning technician
+1779,40000,35,Planning technician
+1780,60000,10,Planning technician
+1781,120000,0,Planning technician
+1782,20000,10,Planning technician
+1783,140000,0,Planning technician
+1784,100000,0,Planning technician
+1785,140000,0,Plant breeder
+1786,100000,0,Plant breeder
+1787,40000,0,Plant breeder
+1788,120000,0,Plant breeder
+1789,60000,0,Plant breeder
+1790,20000,0,Plant breeder
+1791,80000,0,Plant breeder
+1792,60000,7,Police officer
+1793,40000,18,Police officer
+1794,80000,0,Police officer
+1795,120000,0,Police officer
+1796,20000,23,Police officer
+1797,140000,0,Police officer
+1798,100000,0,Police officer
+1799,40000,0,Political party agent
+1800,60000,0,Political party agent
+1801,120000,0,Political party agent
+1802,100000,0,Political party agent
+1803,80000,0,Political party agent
+1804,20000,0,Political party agent
+1805,140000,0,Political party agent
+1806,40000,1,Political researcher
+1807,120000,0,Political researcher
+1808,140000,0,Political researcher
+1809,100000,0,Political researcher
+1810,20000,0,Political researcher
+1811,80000,0,Political researcher
+1812,60000,0,Political researcher
+1813,140000,33,Practice nurse
+1814,20000,115,Practice nurse
+1815,100000,41,Practice nurse
+1816,40000,271,Practice nurse
+1817,80000,84,Practice nurse
+1818,60000,206,Practice nurse
+1819,120000,23,Practice nurse
+1820,40000,0,Press photographer
+1821,20000,0,Press photographer
+1822,140000,0,Press photographer
+1823,80000,0,Press photographer
+1824,100000,0,Press photographer
+1825,120000,0,Press photographer
+1826,60000,0,Press photographer
+1827,100000,0,Press sub-editor
+1828,40000,0,Press sub-editor
+1829,120000,0,Press sub-editor
+1830,60000,0,Press sub-editor
+1831,20000,0,Press sub-editor
+1832,140000,0,Press sub-editor
+1833,80000,0,Press sub-editor
+1834,140000,0,Prison officer
+1835,20000,0,Prison officer
+1836,80000,0,Prison officer
+1837,60000,0,Prison officer
+1838,40000,1,Prison officer
+1839,120000,0,Prison officer
+1840,100000,0,Prison officer
+1841,20000,0,Private music teacher
+1842,60000,0,Private music teacher
+1843,100000,0,Private music teacher
+1844,140000,0,Private music teacher
+1845,40000,0,Private music teacher
+1846,80000,0,Private music teacher
+1847,120000,0,Private music teacher
+1848,140000,0,Probation officer
+1849,100000,0,Probation officer
+1850,60000,1,Probation officer
+1851,80000,1,Probation officer
+1852,20000,9,Probation officer
+1853,120000,0,Probation officer
+1854,40000,6,Probation officer
+1855,100000,0,Product development scientist
+1856,20000,0,Product development scientist
+1857,140000,1,Product development scientist
+1858,120000,1,Product development scientist
+1859,40000,0,Product development scientist
+1860,60000,0,Product development scientist
+1861,80000,0,Product development scientist
+1862,120000,21,Production manager
+1863,80000,80,Production manager
+1864,40000,100,Production manager
+1865,140000,11,Production manager
+1866,20000,380,Production manager
+1867,60000,143,Production manager
+1868,100000,87,Production manager
+1869,20000,16,Programme researcher
+1870,80000,17,Programme researcher
+1871,60000,11,Programme researcher
+1872,100000,6,Programme researcher
+1873,140000,6,Programme researcher
+1874,40000,14,Programme researcher
+1875,120000,6,Programme researcher
+1876,120000,387,Project manager
+1877,80000,830,Project manager
+1878,60000,686,Project manager
+1879,40000,484,Project manager
+1880,100000,632,Project manager
+1881,20000,413,Project manager
+1882,140000,328,Project manager
+1883,100000,0,Psychologist (clinical): job descriptions Psychologist (educational)
+1884,20000,0,Psychologist (clinical): job descriptions Psychologist (educational)
+1885,140000,0,Psychologist (clinical): job descriptions Psychologist (educational)
+1886,120000,0,Psychologist (clinical): job descriptions Psychologist (educational)
+1887,60000,0,Psychologist (clinical): job descriptions Psychologist (educational)
+1888,40000,0,Psychologist (clinical): job descriptions Psychologist (educational)
+1889,80000,0,Psychologist (clinical): job descriptions Psychologist (educational)
+1890,140000,0,Psychotherapist
+1891,100000,0,Psychotherapist
+1892,20000,0,Psychotherapist
+1893,80000,0,Psychotherapist
+1894,60000,0,Psychotherapist
+1895,120000,0,Psychotherapist
+1896,40000,0,Psychotherapist
+1897,140000,0,Public affairs consultant (lobbyist)
+1898,100000,0,Public affairs consultant (lobbyist)
+1899,40000,0,Public affairs consultant (lobbyist)
+1900,120000,0,Public affairs consultant (lobbyist)
+1901,60000,0,Public affairs consultant (lobbyist)
+1902,20000,0,Public affairs consultant (lobbyist)
+1903,80000,0,Public affairs consultant (lobbyist)
+1904,40000,0,Public affairs consultant (research)
+1905,120000,0,Public affairs consultant (research)
+1906,140000,0,Public affairs consultant (research)
+1907,100000,0,Public affairs consultant (research)
+1908,20000,0,Public affairs consultant (research)
+1909,80000,0,Public affairs consultant (research)
+1910,60000,0,Public affairs consultant (research)
+1911,40000,0,Public house manager
+1912,80000,0,Public house manager
+1913,60000,0,Public house manager
+1914,120000,0,Public house manager
+1915,20000,0,Public house manager
+1916,140000,0,Public house manager
+1917,100000,0,Public house manager
+1918,120000,0,Public librarian
+1919,40000,0,Public librarian
+1920,60000,0,Public librarian
+1921,80000,0,Public librarian
+1922,100000,0,Public librarian
+1923,20000,0,Public librarian
+1924,140000,0,Public librarian
+1925,140000,0,Public relations (PR) officer
+1926,80000,0,Public relations (PR) officer
+1927,60000,0,Public relations (PR) officer
+1928,20000,0,Public relations (PR) officer
+1929,100000,0,Public relations (PR) officer
+1930,120000,0,Public relations (PR) officer
+1931,40000,0,Public relations (PR) officer
+1932,140000,3,QA analyst
+1933,20000,0,QA analyst
+1934,80000,3,QA analyst
+1935,60000,2,QA analyst
+1936,40000,2,QA analyst
+1937,120000,1,QA analyst
+1938,100000,0,QA analyst
+1939,120000,10,Quality assurance manager
+1940,40000,8,Quality assurance manager
+1941,100000,5,Quality assurance manager
+1942,140000,3,Quality assurance manager
+1943,20000,9,Quality assurance manager
+1944,80000,14,Quality assurance manager
+1945,60000,4,Quality assurance manager
+1946,40000,0,Quantity surveyor
+1947,80000,0,Quantity surveyor
+1948,100000,0,Quantity surveyor
+1949,60000,0,Quantity surveyor
+1950,120000,1,Quantity surveyor
+1951,20000,0,Quantity surveyor
+1952,140000,0,Quantity surveyor
+1953,100000,16,Records manager
+1954,140000,31,Records manager
+1955,40000,59,Records manager
+1956,120000,13,Records manager
+1957,60000,32,Records manager
+1958,20000,122,Records manager
+1959,80000,14,Records manager
+1960,40000,13,Recruitment consultant
+1961,120000,0,Recruitment consultant
+1962,100000,2,Recruitment consultant
+1963,140000,1,Recruitment consultant
+1964,20000,12,Recruitment consultant
+1965,80000,0,Recruitment consultant
+1966,60000,8,Recruitment consultant
+1967,80000,0,Recycling officer
+1968,120000,0,Recycling officer
+1969,60000,0,Recycling officer
+1970,100000,0,Recycling officer
+1971,20000,3,Recycling officer
+1972,140000,0,Recycling officer
+1973,40000,0,Recycling officer
+1974,100000,0,Regulatory affairs officer
+1975,140000,0,Regulatory affairs officer
+1976,40000,0,Regulatory affairs officer
+1977,120000,0,Regulatory affairs officer
+1978,60000,0,Regulatory affairs officer
+1979,20000,0,Regulatory affairs officer
+1980,80000,0,Regulatory affairs officer
+1981,20000,2,Research chemist
+1982,60000,1,Research chemist
+1983,100000,0,Research chemist
+1984,40000,1,Research chemist
+1985,140000,0,Research chemist
+1986,80000,0,Research chemist
+1987,120000,0,Research chemist
+1988,140000,9,Research scientist
+1989,100000,16,Research scientist
+1990,40000,8,Research scientist
+1991,120000,7,Research scientist
+1992,60000,11,Research scientist
+1993,20000,14,Research scientist
+1994,80000,8,Research scientist
+1995,100000,12,Restaurant manager
+1996,20000,462,Restaurant manager
+1997,140000,6,Restaurant manager
+1998,120000,8,Restaurant manager
+1999,40000,1624,Restaurant manager
+2000,60000,602,Restaurant manager
+2001,80000,108,Restaurant manager
+2002,40000,0,Retail banker
+2003,120000,0,Retail banker
+2004,100000,0,Retail banker
+2005,20000,0,Retail banker
+2006,60000,0,Retail banker
+2007,80000,0,Retail banker
+2008,140000,0,Retail banker
+2009,20000,0,Retail buyer
+2010,140000,0,Retail buyer
+2011,80000,0,Retail buyer
+2012,60000,0,Retail buyer
+2013,40000,0,Retail buyer
+2014,120000,0,Retail buyer
+2015,100000,0,Retail buyer
+2016,20000,158,Retail manager
+2017,140000,3,Retail manager
+2018,60000,42,Retail manager
+2019,100000,5,Retail manager
+2020,120000,3,Retail manager
+2021,80000,3,Retail manager
+2022,40000,71,Retail manager
+2023,20000,276,Retail merchandiser
+2024,140000,0,Retail merchandiser
+2025,100000,0,Retail merchandiser
+2026,40000,4,Retail merchandiser
+2027,60000,2,Retail merchandiser
+2028,80000,1,Retail merchandiser
+2029,120000,0,Retail merchandiser
+2030,100000,0,Retail pharmacist
+2031,140000,0,Retail pharmacist
+2032,20000,9,Retail pharmacist
+2033,120000,0,Retail pharmacist
+2034,80000,1,Retail pharmacist
+2035,60000,0,Retail pharmacist
+2036,40000,0,Retail pharmacist
+2037,140000,35,Sales executive
+2038,100000,30,Sales executive
+2039,40000,56,Sales executive
+2040,120000,14,Sales executive
+2041,60000,71,Sales executive
+2042,20000,55,Sales executive
+2043,80000,114,Sales executive
+2044,40000,0,Scene of crime officer
+2045,120000,0,Scene of crime officer
+2046,20000,0,Scene of crime officer
+2047,60000,0,Scene of crime officer
+2048,80000,0,Scene of crime officer
+2049,100000,0,Scene of crime officer
+2050,140000,0,Scene of crime officer
+2051,60000,19,Secretary
+2052,80000,4,Secretary
+2053,20000,418,Secretary
+2054,140000,4,Secretary
+2055,100000,1,Secretary
+2056,120000,0,Secretary
+2057,40000,41,Secretary
+2058,100000,0,Seismic interpreter
+2059,20000,0,Seismic interpreter
+2060,140000,0,Seismic interpreter
+2061,120000,0,Seismic interpreter
+2062,60000,0,Seismic interpreter
+2063,40000,0,Seismic interpreter
+2064,80000,0,Seismic interpreter
+2065,60000,17,Site engineer
+2066,80000,11,Site engineer
+2067,40000,3,Site engineer
+2068,120000,12,Site engineer
+2069,140000,7,Site engineer
+2070,20000,4,Site engineer
+2071,100000,7,Site engineer
+2072,120000,34,Site manager
+2073,80000,80,Site manager
+2074,140000,20,Site manager
+2075,40000,65,Site manager
+2076,60000,82,Site manager
+2077,20000,116,Site manager
+2078,100000,77,Site manager
+2079,120000,0,Social researcher
+2080,80000,1,Social researcher
+2081,140000,0,Social researcher
+2082,40000,2,Social researcher
+2083,20000,6,Social researcher
+2084,100000,1,Social researcher
+2085,60000,5,Social researcher
+2086,120000,5,Social worker
+2087,40000,47,Social worker
+2088,100000,24,Social worker
+2089,80000,102,Social worker
+2090,20000,46,Social worker
+2091,140000,7,Social worker
+2092,60000,83,Social worker
+2093,100000,176,Software developer
+2094,20000,224,Software developer
+2095,140000,280,Software developer
+2096,120000,197,Software developer
+2097,40000,54,Software developer
+2098,80000,135,Software developer
+2099,60000,68,Software developer
+2100,140000,322,Software engineer
+2101,40000,18,Software engineer
+2102,20000,9,Software engineer
+2103,60000,36,Software engineer
+2104,100000,174,Software engineer
+2105,120000,220,Software engineer
+2106,80000,117,Software engineer
+2107,40000,3,Soil scientist
+2108,20000,0,Soil scientist
+2109,140000,0,Soil scientist
+2110,80000,1,Soil scientist
+2111,100000,2,Soil scientist
+2112,60000,1,Soil scientist
+2113,120000,0,Soil scientist
+2114,80000,0,Solicitor
+2115,20000,0,Solicitor
+2116,140000,0,Solicitor
+2117,60000,0,Solicitor
+2118,120000,0,Solicitor
+2119,40000,1,Solicitor
+2120,100000,0,Solicitor
+2121,80000,0,Speech and language therapist
+2122,60000,1,Speech and language therapist
+2123,40000,2,Speech and language therapist
+2124,120000,0,Speech and language therapist
+2125,140000,0,Speech and language therapist
+2126,20000,1,Speech and language therapist
+2127,100000,0,Speech and language therapist
+2128,100000,0,Sports coach
+2129,120000,0,Sports coach
+2130,40000,0,Sports coach
+2131,60000,0,Sports coach
+2132,80000,0,Sports coach
+2133,20000,0,Sports coach
+2134,140000,0,Sports coach
+2135,20000,0,Sports development officer
+2136,140000,0,Sports development officer
+2137,100000,0,Sports development officer
+2138,40000,0,Sports development officer
+2139,80000,0,Sports development officer
+2140,60000,0,Sports development officer
+2141,120000,0,Sports development officer
+2142,100000,0,Sports therapist
+2143,60000,0,Sports therapist
+2144,120000,0,Sports therapist
+2145,80000,0,Sports therapist
+2146,140000,0,Sports therapist
+2147,20000,0,Sports therapist
+2148,40000,0,Sports therapist
+2149,40000,1,Statistician
+2150,80000,0,Statistician
+2151,60000,0,Statistician
+2152,120000,2,Statistician
+2153,20000,0,Statistician
+2154,140000,2,Statistician
+2155,100000,0,Statistician
+2156,20000,0,Stockbroker
+2157,140000,0,Stockbroker
+2158,100000,0,Stockbroker
+2159,40000,0,Stockbroker
+2160,80000,0,Stockbroker
+2161,60000,0,Stockbroker
+2162,120000,0,Stockbroker
+2163,120000,16,Structural engineer
+2164,40000,6,Structural engineer
+2165,140000,2,Structural engineer
+2166,100000,30,Structural engineer
+2167,20000,6,Structural engineer
+2168,80000,39,Structural engineer
+2169,60000,10,Structural engineer
+2170,60000,7,Systems analyst
+2171,140000,17,Systems analyst
+2172,20000,7,Systems analyst
+2173,80000,18,Systems analyst
+2174,100000,17,Systems analyst
+2175,40000,8,Systems analyst
+2176,120000,11,Systems analyst
+2177,60000,72,Systems developer
+2178,80000,80,Systems developer
+2179,20000,46,Systems developer
+2180,100000,67,Systems developer
+2181,140000,105,Systems developer
+2182,120000,97,Systems developer
+2183,40000,94,Systems developer
+2184,20000,0,Tax inspector
+2185,140000,0,Tax inspector
+2186,100000,0,Tax inspector
+2187,40000,0,Tax inspector
+2188,80000,0,Tax inspector
+2189,60000,0,Tax inspector
+2190,120000,0,Tax inspector
+2191,80000,0,Teacher (nursery/early years)
+2192,120000,0,Teacher (nursery/early years)
+2193,60000,0,Teacher (nursery/early years)
+2194,20000,0,Teacher (nursery/early years)
+2195,100000,0,Teacher (nursery/early years)
+2196,40000,0,Teacher (nursery/early years)
+2197,140000,0,Teacher (nursery/early years)
+2198,140000,0,Teacher (primary)
+2199,20000,305,Teacher (primary)
+2200,80000,0,Teacher (primary)
+2201,60000,1,Teacher (primary)
+2202,40000,297,Teacher (primary)
+2203,120000,0,Teacher (primary)
+2204,100000,1,Teacher (primary)
+2205,40000,1,Teacher (secondary)
+2206,120000,0,Teacher (secondary)
+2207,100000,0,Teacher (secondary)
+2208,140000,0,Teacher (secondary)
+2209,60000,1,Teacher (secondary)
+2210,20000,293,Teacher (secondary)
+2211,80000,0,Teacher (secondary)
+2212,60000,0,Teacher (special educational needs)
+2213,80000,0,Teacher (special educational needs)
+2214,20000,1,Teacher (special educational needs)
+2215,100000,0,Teacher (special educational needs)
+2216,140000,0,Teacher (special educational needs)
+2217,120000,0,Teacher (special educational needs)
+2218,40000,0,Teacher (special educational needs)
+2219,120000,0,Teaching/classroom assistant
+2220,40000,0,Teaching/classroom assistant
+2221,100000,0,Teaching/classroom assistant
+2222,80000,0,Teaching/classroom assistant
+2223,140000,0,Teaching/classroom assistant
+2224,20000,0,Teaching/classroom assistant
+2225,60000,0,Teaching/classroom assistant
+2226,80000,2,Technical author
+2227,120000,5,Technical author
+2228,20000,1,Technical author
+2229,100000,8,Technical author
+2230,60000,3,Technical author
+2231,40000,1,Technical author
+2232,140000,3,Technical author
+2233,40000,0,Technical sales engineer
+2234,120000,1,Technical sales engineer
+2235,140000,9,Technical sales engineer
+2236,100000,6,Technical sales engineer
+2237,20000,0,Technical sales engineer
+2238,80000,2,Technical sales engineer
+2239,60000,2,Technical sales engineer
+2240,80000,0,TEFL/TESL teacher
+2241,140000,0,TEFL/TESL teacher
+2242,20000,0,TEFL/TESL teacher
+2243,60000,0,TEFL/TESL teacher
+2244,120000,0,TEFL/TESL teacher
+2245,40000,0,TEFL/TESL teacher
+2246,100000,0,TEFL/TESL teacher
+2247,140000,0,Television production assistant
+2248,20000,0,Television production assistant
+2249,80000,0,Television production assistant
+2250,100000,0,Television production assistant
+2251,60000,0,Television production assistant
+2252,120000,0,Television production assistant
+2253,40000,0,Television production assistant
+2254,100000,2,Test automation developer
+2255,140000,4,Test automation developer
+2256,20000,0,Test automation developer
+2257,120000,3,Test automation developer
+2258,80000,3,Test automation developer
+2259,60000,1,Test automation developer
+2260,40000,0,Test automation developer
+2261,100000,0,Tour guide
+2262,140000,0,Tour guide
+2263,20000,10,Tour guide
+2264,120000,0,Tour guide
+2265,60000,0,Tour guide
+2266,80000,0,Tour guide
+2267,40000,0,Tour guide
+2268,20000,4,Tour operator
+2269,140000,0,Tour operator
+2270,100000,0,Tour operator
+2271,40000,2,Tour operator
+2272,80000,0,Tour operator
+2273,60000,0,Tour operator
+2274,120000,0,Tour operator
+2275,80000,0,Tour/holiday representative
+2276,60000,0,Tour/holiday representative
+2277,40000,0,Tour/holiday representative
+2278,120000,0,Tour/holiday representative
+2279,140000,0,Tour/holiday representative
+2280,20000,0,Tour/holiday representative
+2281,100000,0,Tour/holiday representative
+2282,80000,0,Tourism officer
+2283,120000,0,Tourism officer
+2284,60000,0,Tourism officer
+2285,20000,0,Tourism officer
+2286,100000,0,Tourism officer
+2287,40000,0,Tourism officer
+2288,140000,0,Tourism officer
+2289,20000,0,Tourist information manager
+2290,80000,0,Tourist information manager
+2291,60000,0,Tourist information manager
+2292,140000,0,Tourist information manager
+2293,100000,0,Tourist information manager
+2294,40000,0,Tourist information manager
+2295,120000,0,Tourist information manager
+2296,40000,0,Town and country planner
+2297,80000,0,Town and country planner
+2298,120000,0,Town and country planner
+2299,60000,0,Town and country planner
+2300,100000,0,Town and country planner
+2301,20000,0,Town and country planner
+2302,140000,0,Town and country planner
+2303,140000,0,Toxicologist
+2304,100000,0,Toxicologist
+2305,120000,0,Toxicologist
+2306,40000,0,Toxicologist
+2307,60000,0,Toxicologist
+2308,20000,0,Toxicologist
+2309,80000,0,Toxicologist
+2310,60000,0,Trade union official
+2311,140000,0,Trade union official
+2312,20000,0,Trade union official
+2313,80000,0,Trade union official
+2314,100000,0,Trade union official
+2315,40000,0,Trade union official
+2316,120000,0,Trade union official
+2317,40000,0,Trade union research officer
+2318,60000,0,Trade union research officer
+2319,80000,0,Trade union research officer
+2320,120000,0,Trade union research officer
+2321,20000,0,Trade union research officer
+2322,140000,0,Trade union research officer
+2323,100000,0,Trade union research officer
+2324,60000,9,Trader
+2325,20000,22,Trader
+2326,80000,6,Trader
+2327,100000,0,Trader
+2328,140000,20,Trader
+2329,120000,2,Trader
+2330,40000,6,Trader
+2331,40000,0,Trading standards officer
+2332,20000,0,Trading standards officer
+2333,140000,0,Trading standards officer
+2334,100000,0,Trading standards officer
+2335,60000,0,Trading standards officer
+2336,120000,0,Trading standards officer
+2337,80000,0,Trading standards officer
+2338,60000,0,Training and development officer
+2339,20000,0,Training and development officer
+2340,140000,0,Training and development officer
+2341,80000,0,Training and development officer
+2342,100000,0,Training and development officer
+2343,40000,1,Training and development officer
+2344,120000,0,Training and development officer
+2345,60000,48,Translator
+2346,120000,104,Translator
+2347,20000,160,Translator
+2348,40000,57,Translator
+2349,80000,55,Translator
+2350,100000,74,Translator
+2351,140000,93,Translator
+2352,100000,0,Transportation planner
+2353,40000,0,Transportation planner
+2354,120000,0,Transportation planner
+2355,60000,0,Transportation planner
+2356,20000,1,Transportation planner
+2357,140000,0,Transportation planner
+2358,80000,0,Transportation planner
+2359,20000,14,Travel agent
+2360,100000,0,Travel agent
+2361,60000,2,Travel agent
+2362,140000,0,Travel agent
+2363,40000,3,Travel agent
+2364,80000,0,Travel agent
+2365,120000,0,Travel agent
+2366,20000,0,TV/film/theatre set designer
+2367,80000,0,TV/film/theatre set designer
+2368,60000,0,TV/film/theatre set designer
+2369,140000,0,TV/film/theatre set designer
+2370,100000,0,TV/film/theatre set designer
+2371,120000,0,TV/film/theatre set designer
+2372,40000,0,TV/film/theatre set designer
+2373,120000,18,UX designer
+2374,60000,9,UX designer
+2375,80000,14,UX designer
+2376,40000,5,UX designer
+2377,100000,13,UX designer
+2378,140000,11,UX designer
+2379,20000,2,UX designer
+2380,80000,2,Validation engineer
+2381,140000,1,Validation engineer
+2382,20000,2,Validation engineer
+2383,60000,4,Validation engineer
+2384,120000,5,Validation engineer
+2385,40000,2,Validation engineer
+2386,100000,6,Validation engineer
+2387,20000,0,Veterinary nurse
+2388,120000,0,Veterinary nurse
+2389,60000,0,Veterinary nurse
+2390,140000,0,Veterinary nurse
+2391,100000,0,Veterinary nurse
+2392,40000,0,Veterinary nurse
+2393,80000,0,Veterinary nurse
+2394,60000,0,Veterinary surgeon
+2395,100000,0,Veterinary surgeon
+2396,120000,0,Veterinary surgeon
+2397,80000,1,Veterinary surgeon
+2398,20000,0,Veterinary surgeon
+2399,140000,0,Veterinary surgeon
+2400,40000,0,Veterinary surgeon
+2401,140000,0,Video game designer
+2402,100000,0,Video game designer
+2403,20000,0,Video game designer
+2404,80000,0,Video game designer
+2405,60000,0,Video game designer
+2406,120000,0,Video game designer
+2407,40000,0,Video game designer
+2408,60000,0,Video game developer
+2409,80000,1,Video game developer
+2410,40000,0,Video game developer
+2411,120000,1,Video game developer
+2412,140000,0,Video game developer
+2413,20000,0,Video game developer
+2414,100000,1,Video game developer
+2415,80000,0,Volunteer work organiser: Job description Warehouse manager
+2416,20000,0,Volunteer work organiser: Job description Warehouse manager
+2417,60000,0,Volunteer work organiser: Job description Warehouse manager
+2418,100000,0,Volunteer work organiser: Job description Warehouse manager
+2419,140000,0,Volunteer work organiser: Job description Warehouse manager
+2420,40000,0,Volunteer work organiser: Job description Warehouse manager
+2421,120000,0,Volunteer work organiser: Job description Warehouse manager
+2422,140000,0,Waste management officer
+2423,20000,0,Waste management officer
+2424,80000,0,Waste management officer
+2425,60000,0,Waste management officer
+2426,40000,0,Waste management officer
+2427,120000,0,Waste management officer
+2428,100000,0,Waste management officer
+2429,100000,0,Water conservation officer
+2430,60000,0,Water conservation officer
+2431,20000,1,Water conservation officer
+2432,140000,0,Water conservation officer
+2433,40000,0,Water conservation officer
+2434,80000,0,Water conservation officer
+2435,120000,0,Water conservation officer
+2436,40000,1,Water engineer
+2437,80000,9,Water engineer
+2438,60000,5,Water engineer
+2439,120000,6,Water engineer
+2440,20000,0,Water engineer
+2441,140000,1,Water engineer
+2442,100000,4,Water engineer
+2443,140000,10,Web designer
+2444,100000,11,Web designer
+2445,20000,10,Web designer
+2446,80000,14,Web designer
+2447,60000,13,Web designer
+2448,120000,23,Web designer
+2449,40000,11,Web designer
+2450,60000,23,Web developer
+2451,20000,8,Web developer
+2452,80000,53,Web developer
+2453,120000,71,Web developer
+2454,40000,17,Web developer
+2455,100000,63,Web developer
+2456,140000,54,Web developer
+2457,140000,0,Welfare rights adviser
+2458,20000,0,Welfare rights adviser
+2459,80000,0,Welfare rights adviser
+2460,60000,0,Welfare rights adviser
+2461,100000,0,Welfare rights adviser
+2462,120000,0,Welfare rights adviser
+2463,40000,0,Welfare rights adviser
+2464,140000,20,Writer
+2465,100000,39,Writer
+2466,20000,261,Writer
+2467,80000,73,Writer
+2468,60000,140,Writer
+2469,120000,29,Writer
+2470,40000,173,Writer
+2471,20000,11,Youth worker
+2472,140000,0,Youth worker
+2473,100000,0,Youth worker
+2474,60000,0,Youth worker
+2475,40000,2,Youth worker
+2476,80000,0,Youth worker
+2477,120000,0,Youth worker

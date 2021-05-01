@@ -1,0 +1,1261 @@
+,Company,Count of Jobs in that company,Category
+0,University of Washington,226,Academic librarian
+1,Stanford University,1,Academic librarian
+2,Princeton University,1,Academic librarian
+3,University of Chicago,1,Academic librarian
+4,Emory,1,Academic librarian
+5,Robert Half,12743,Accountant
+6,Oracle,7592,Accountant
+7,Army National Guard,5707,Accountant
+8,EY,5431,Accountant
+9,Deloitte,3608,Accountant
+10,U.S. Army,62,Accounting technician
+11,Aerotek,4,Accounting technician
+12,PruittHealth,3,Accounting technician
+13,United Rentals,2,Accounting technician
+14,ABM Industries,2,Accounting technician
+15,Humana,905,Actuary
+16,"Anthem, Inc",288,Actuary
+17,Travelers,257,Actuary
+18,Deloitte,215,Actuary
+19,Guidehouse,206,Actuary
+20,Genesis HealthCare,1060,Adult nurse
+21,BAYADA Home Health Care,352,Adult nurse
+22,Cleveland Clinic,194,Adult nurse
+23,Children's Healthcare of Atlanta,91,Adult nurse
+24,"Anthem, Inc",66,Adult nurse
+25,iHeartMedia,20,Advertising account executive
+26,SPECTRUM,15,Advertising account executive
+27,Comcast,10,Advertising account executive
+28,Fidelity Investments,7,Advertising account executive
+29,Scripps Health,3,Advertising account executive
+30,SPECTRUM,2,Advertising account planner
+31,Land O’Lakes,1,Advertising account planner
+32,Robert Half,5,Advertising copywriter
+33,Booz Allen Hamilton,2,Advertising copywriter
+34,Intel,1,Advertising copywriter
+35,Walgreens,1,Advertising copywriter
+36,Purdue University,1,Advertising copywriter
+37,JB Hunt,1,Advice worker
+38,Georgetown University,1,Advice worker
+39,SOSi,1,Advice worker
+40,Lockheed Martin,22,Aeronautical engineer
+41,ManTech,21,Aeronautical engineer
+42,SAIC,18,Aeronautical engineer
+43,Raytheon,12,Aeronautical engineer
+44,Zimmer Biomet Holdings,12,Aeronautical engineer
+45,Bayer,3,Agricultural consultant
+46,Titan Machinery,2,Agricultural consultant
+47,Washington State University,1,Agricultural consultant
+48,GrowMark,66,Agricultural manager
+49,BrightView,62,Agricultural manager
+50,DISH,46,Agricultural manager
+51,Bayer,23,Agricultural manager
+52,OSI Group,11,Agricultural manager
+53,Army National Guard,455,Air traffic controller
+54,Leidos,129,Air traffic controller
+55,U.S. Army,62,Air traffic controller
+56,SAIC,51,Air traffic controller
+57,Sun Country Airlines,28,Air traffic controller
+58,Kelly IT,70,Analytical chemist
+59,Aerotek,27,Analytical chemist
+60,Kelly Services,21,Analytical chemist
+61,Select Source International,14,Analytical chemist
+62,Bayer,10,Analytical chemist
+63,Sephora,415,Animator
+64,Facebook,208,Animator
+65,CTG,181,Animator
+66,Fiserv,161,Animator
+67,Merck,144,Animator
+68,AECOM,7,Archaeologist
+69,Colorado State University,4,Archaeologist
+70,Jacobs,4,Archaeologist
+71,NextEra Energy,2,Archaeologist
+72,Randstad,2,Archaeologist
+73,Oracle,27566,Architect
+74,Deloitte,4672,Architect
+75,Accenture,4233,Architect
+76,EY,3743,Architect
+77,Humana,2641,Architect
+78,Travelers,94,Architectural technologist
+79,Perspecta,4,Architectural technologist
+80,SAIC,2,Architectural technologist
+81,JPMorgan Chase,1,Architectural technologist
+82,American Water Works,1,Architectural technologist
+83,Kelly IT,5,Archivist
+84,Johns Hopkins University,3,Archivist
+85,University of Minnesota,2,Archivist
+86,Leidos,2,Archivist
+87,Abbott Laboratories,1,Archivist
+88,Northrop Grumman,1,Armed forces officer
+89,U.S. Air Force,1,Armed forces officer
+90,Sysmex America,1,Armed forces officer
+91,Deloitte,34,Art therapist
+92,Fairview Health Services,12,Art therapist
+93,CVS Health,8,Art therapist
+94,Banner Health,8,Art therapist
+95,University of Colorado Boulder,7,Art therapist
+96,Creighton University,13,Arts administrator
+97,Advocate Health Care,8,Arts administrator
+98,University of Colorado Boulder,5,Arts administrator
+99,Leidos,4,Arts administrator
+100,PwC,3,Arts administrator
+101,Robert Half,2014,Auditor
+102,EY,763,Auditor
+103,Deloitte,505,Auditor
+104,"Anthem, Inc",343,Auditor
+105,Wells Fargo,274,Auditor
+106,Continental Resources,85,Automotive engineer
+107,Cox Automotive,61,Automotive engineer
+108,Kelly IT,36,Automotive engineer
+109,Kelly Services,22,Automotive engineer
+110,Aerotek,17,Automotive engineer
+111,CDM Smith,267,Bid manager
+112,Oracle,164,Bid manager
+113,Humana,101,Bid manager
+114,IQVIA,65,Bid manager
+115,Leidos,46,Bid manager
+116,North Clackamas Schools,1,Bilingual secretary
+117,Ascension,124,Biomedical engineer
+118,Medtronic,122,Biomedical engineer
+119,Abbott Laboratories,91,Biomedical engineer
+120,Abbott,84,Biomedical engineer
+121,Guidehouse,76,Biomedical engineer
+122,Guidehouse,76,Biomedical scientist
+123,EY,68,Biomedical scientist
+124,Thermo Fisher Scientific,61,Biomedical scientist
+125,Medtronic,59,Biomedical scientist
+126,Axle Informatics,36,Biomedical scientist
+127,Microsoft,2,Biotechnologist
+128,General Dynamics Information Technology,1,Biotechnologist
+129,Oracle,900,Brand manager
+130,Deloitte,475,Brand manager
+131,Facebook,246,Brand manager
+132,Accenture,182,Brand manager
+133,Merck,139,Brand manager
+134,Cumulus Media,4,Broadcasting presenter
+135,Visa,1,Broadcasting presenter
+136,Microsoft,107,Building services engineer
+137,Liberty Personnel Services,19,Building services engineer
+138,Pro Mach,15,Building services engineer
+139,salesforce.com,6,Building services engineer
+140,Michael Page,3,Building services engineer
+141,Johnson Controls,1,Building surveyor
+142,Oracle,3390,Business analyst
+143,Deloitte,1191,Business analyst
+144,Fiserv,899,Business analyst
+145,"Anthem, Inc",784,Business analyst
+146,CTG,749,Business analyst
+147,Meijer,41,Camera operator
+148,Mayo Clinic,11,Camera operator
+149,Sinclair Broadcast Group,9,Camera operator
+150,Red Coats,8,Camera operator
+151,CBS,7,Camera operator
+152,McDonald's,3260,Careers adviser
+153,McDonalds,2114,Careers adviser
+154,RSM,299,Careers adviser
+155,Northwestern Mutual,84,Careers adviser
+156,BrightSpring Health Services,58,Careers adviser
+157,Army National Guard,235,Careers consultant
+158,PwC,223,Careers consultant
+159,TEKsystems,187,Careers consultant
+160,Guidehouse,185,Careers consultant
+161,Deloitte,131,Careers consultant
+162,National Geospatial Intelligence Agency,397,Cartographer
+163,Army National Guard,175,Cartographer
+164,Leidos,59,Cartographer
+165,CyberCoders,4,Cartographer
+166,Colorado State University,3,Cartographer
+167,May Trucking,2953,Catering manager
+168,Sodexo,158,Catering manager
+169,Cracker Barrel Old Country Store,149,Catering manager
+170,Aramark,76,Catering manager
+171,Compass Group,69,Catering manager
+172,Intermountain Healthcare,3,Charities administrator
+173,Acadia Healthcare,2,Charities administrator
+174,Robert Half,1,Charities administrator
+175,Gecko Hospitality,5,Charities fundraiser
+176,Spectra Energy,1,Charities fundraiser
+177,Bojangles’ Famous Chicken ‘n Biscuits,1,Charities fundraiser
+178,Future Technologies,1,Charities fundraiser
+179,AECOM,7,Chemical (process) engineer
+180,Aerotek,7,Chemical (process) engineer
+181,Poly America,7,Chemical (process) engineer
+182,Baxter International,6,Chemical (process) engineer
+183,CDM Smith,6,Chemical (process) engineer
+184,Enterprise Medical Recruiting,1,Child psychotherapist
+185,Children's Healthcare of Atlanta,97,Children's nurse
+186,HCA Healthcare,13,Children's nurse
+187,Fairview Health Services,8,Children's nurse
+188,Hartford Healthcare,5,Children's nurse
+189,AMITA Health,4,Children's nurse
+190,"Anthem, Inc",30,Chiropractor
+191,Boston Scientific,9,Chiropractor
+192,CSL Plasma,8,Chiropractor
+193,Randstad,4,Chiropractor
+194,Life Time,4,Chiropractor
+195,CDM Smith,1090,Civil engineer
+196,PG&E Corporation,447,Civil engineer
+197,AECOM,429,Civil engineer
+198,Aerotek,235,Civil engineer
+199,Kimley-Horn,201,Civil engineer
+200,University of Illinois at Chicago,1,Civil Service administrator
+201,Aerotek,2,Clinical biochemist
+202,Stanford Health Care,6,Clinical cytogeneticist
+203,Kelly IT,4,Clinical cytogeneticist
+204,LabCorp,1,Clinical cytogeneticist
+205,Providence Health & Services,10,Clinical microbiologist
+206,Stanford Health Care,4,Clinical microbiologist
+207,Quest Diagnostics,2,Clinical microbiologist
+208,Dignity Health,2,Clinical microbiologist
+209,Community Health Systems,1,Clinical microbiologist
+210,IQVIA,701,Clinical research associate
+211,Merck,278,Clinical research associate
+212,Top Docs,155,Clinical research associate
+213,Stanford University,84,Clinical research associate
+214,Select Source International,22,Clinical research associate
+215,SAIC,8,Commercial airline pilot
+216,CACI International,6,Commercial airline pilot
+217,Peraton,1,Commercial airline pilot
+218,Facebook,97,Commissioning engineer
+219,Honeywell,13,Commissioning engineer
+220,Aerotek,12,Commissioning engineer
+221,AECOM,11,Commissioning engineer
+222,American Electric Power,8,Commissioning engineer
+223,Interactive Brokers Group,2,Commodity broker
+224,Occidental Petroleum,1,Commodity broker
+225,GrowMark,1,Commodity broker
+226,Oracle,2087,Communications engineer
+227,Army National Guard,616,Communications engineer
+228,PG&E Corporation,437,Communications engineer
+229,Facebook,305,Communications engineer
+230,Microsoft,150,Communications engineer
+231,Azusa Pacific University,1,Community education officer
+232,"Anthem, Inc",154,Community worker
+233,DaVita,125,Community worker
+234,California Pizza Kitchen,122,Community worker
+235,Brookdale Senior Living,78,Community worker
+236,Aramark,43,Community worker
+237,LHC Group,2,Company secretary
+238,Apple,1,Company secretary
+239,IBM,1,Company secretary
+240,Thermo Fisher Scientific,1,Company secretary
+241,Discover Financial Services,1,Company secretary
+242,Aerotek,3,Computer sales support
+243,Tech Data,1,Computer sales support
+244,Randstad,1,Computer sales support
+245,GrowMark,1,Computer sales support
+246,Bio Rad Laboratories,1,Computer sales support
+247,Oracle,30850,Computer scientist
+248,Hired,9319,Computer scientist
+249,Facebook,8443,Computer scientist
+250,Deloitte,4727,Computer scientist
+251,Amazon Corporate LLC,4628,Computer scientist
+252,Brookdale Senior Living,350,Conference organiser
+253,Oracle,164,Conference organiser
+254,EY,35,Conference organiser
+255,Home Depot,19,Conference organiser
+256,Robert Half,11,Conference organiser
+257,Amazon,400488,Consultant
+258,Oracle,46061,Consultant
+259,Deloitte,15160,Consultant
+260,EY,11416,Consultant
+261,Accenture,9941,Consultant
+262,Liberty Personnel Services,7,Control and instrumentation engineer
+263,Land O’Lakes,3,Control and instrumentation engineer
+264,Microsoft,2,Control and instrumentation engineer
+265,Honeywell,2,Control and instrumentation engineer
+266,Xerox,2,Control and instrumentation engineer
+267,ADP,67,Corporate banker
+268,Wells Fargo,15,Corporate banker
+269,JPMorgan Chase,15,Corporate banker
+270,Bank of America,9,Corporate banker
+271,Citizens Bank,4,Corporate banker
+272,Wells Fargo,15,Corporate treasurer
+273,Prudential Financial,2,Corporate treasurer
+274,Intuit,2,Corporate treasurer
+275,ExecuNet,2,Corporate treasurer
+276,Alcoa,1,Corporate treasurer
+277,BetterHelp,20330,Counsellor
+278,Oracle,11826,Counsellor
+279,EY,5282,Counsellor
+280,GameStop,5233,Counsellor
+281,Deloitte,4493,Counsellor
+282,Fiserv,164,Credit analyst
+283,US Foods,89,Credit analyst
+284,Robert Half,60,Credit analyst
+285,Wells Fargo,31,Credit analyst
+286,U.S. Bank,26,Credit analyst
+287,Pfizer,4,Crystallographer
+288,Oracle,1126,Curator
+289,KPMG,890,Curator
+290,PPR Travel Nursing,738,Curator
+291,MOD Pizza,326,Curator
+292,Accenture,313,Curator
+293,Robert Half,900,Customs officer
+294,Public Storage,531,Customs officer
+295,Office Depot,370,Customs officer
+296,Jacobs,266,Customs officer
+297,Siemens,261,Customs officer
+298,Leidos,111,Cyber security specialist
+299,CACI International,38,Cyber security specialist
+300,Criterion Systems,12,Cyber security specialist
+301,KPMG,11,Cyber security specialist
+302,SAIC,10,Cyber security specialist
+303,Facebook,316,Data analyst
+304,"Anthem, Inc",309,Data analyst
+305,Oracle,253,Data analyst
+306,Freedom Financial,243,Data analyst
+307,Robert Half,237,Data analyst
+308,ASSURANCE Independent Agents,18165,Data scientist
+309,Oracle,4885,Data scientist
+310,IQVIA,4541,Data scientist
+311,Facebook,3251,Data scientist
+312,Dacha Navy Yard,1763,Data scientist
+313,salesforce.com,6,Data visualisation analyst
+314,SAIC,4,Data visualisation analyst
+315,UnitedHealth Group,3,Data visualisation analyst
+316,Capgemini,3,Data visualisation analyst
+317,TIAA,2,Data visualisation analyst
+318,Oracle,2636,Database administrator
+319,U.S. Navy,504,Database administrator
+320,Fiserv,241,Database administrator
+321,Leidos,225,Database administrator
+322,Microsoft,208,Database administrator
+323,CyberCoders,2,Debt/finance adviser
+324,Goldman Sachs,1,Debt/finance adviser
+325,Aspen Dental,1502,Dental hygienist
+326,Midwest Dental,128,Dental hygienist
+327,Western Dental / Brident Dental,67,Dental hygienist
+328,Dental Office,39,Dental hygienist
+329,Smile America Partners,34,Dental hygienist
+330,FedEx Ground,34305,Dentist
+331,Walmart,22705,Dentist
+332,Revature,17590,Dentist
+333,EY,11710,Dentist
+334,McDonalds,10435,Dentist
+335,Oracle,3807,Design engineer
+336,Hired,2641,Design engineer
+337,Facebook,2467,Design engineer
+338,CDM Smith,1432,Design engineer
+339,Humana,1132,Design engineer
+340,CDM Smith,296,Design manager (construction)
+341,AECOM,112,Design manager (construction)
+342,McMillen Jacobs Associates,57,Design manager (construction)
+343,CBRE,29,Design manager (construction)
+344,CyberCoders,23,Design manager (construction)
+345,Hired,4526,DevOps engineer
+346,Oracle,2125,DevOps engineer
+347,VMware,249,DevOps engineer
+348,Accenture,246,DevOps engineer
+349,Deloitte,186,DevOps engineer
+350,Compass Group,2366,Dietitian
+351,"Compass Group, North America",2042,Dietitian
+352,DaVita,1975,Dietitian
+353,Fresenius Medical Care North America,1014,Dietitian
+354,CVS Health,371,Dietitian
+355,Mattel,3,Diplomatic service
+356,Deloitte,3,Diplomatic service
+357,SAIC,3,Diplomatic service
+358,ManpowerGroup,2,Diplomatic service
+359,MANPOWER GROUP,2,Diplomatic service
+360,Rotech Healthcare,162,Doctor (hospital)
+361,HCA Healthcare,93,Doctor (hospital)
+362,Vanderbilt University Medical Center,84,Doctor (hospital)
+363,Vanderbilt University,33,Doctor (hospital)
+364,CSL Plasma,19,Doctor (hospital)
+365,Amazon Corporate LLC,211,Economist
+366,General Assembly,46,Economist
+367,Amazon,35,Economist
+368,Deloitte,15,Economist
+369,Wells Fargo,9,Economist
+370,HarperCollins Publishers,7,Editorial assistant
+371,salesforce.com,4,Editorial assistant
+372,Robert Half,3,Editorial assistant
+373,Penske Media Corporation,2,Editorial assistant
+374,Euromoney Institutional Investor,2,Editorial assistant
+375,CTG,1282,Education administrator
+376,BAYADA Home Health Care,278,Education administrator
+377,J.B. Hunt Transport Services,272,Education administrator
+378,Fiserv,69,Education administrator
+379,Randstad,69,Education administrator
+380,Facebook,3524,Electrical engineer
+381,Dacha Navy Yard,3512,Electrical engineer
+382,Oracle,1613,Electrical engineer
+383,Intel,780,Electrical engineer
+384,Aerotek,689,Electrical engineer
+385,Oracle,471,Electronics engineer
+386,Honeywell,307,Electronics engineer
+387,Stanley Black & Decker,161,Electronics engineer
+388,U.S. Navy,128,Electronics engineer
+389,FedEx Ground,127,Electronics engineer
+390,City of Sacramento,1,Energy conservation officer
+391,Guidehouse,83,Energy consultant
+392,Accenture,28,Energy consultant
+393,Leidos,10,Energy consultant
+394,Eversource Energy,9,Energy consultant
+395,KPMG,5,Energy consultant
+396,"ECS Virtual Support, LLC",15,Engineering geologist
+397,AECOM,12,Engineering geologist
+398,Jacobs,7,Engineering geologist
+399,NV5,5,Engineering geologist
+400,Pioneer Natural Resources,3,Engineering geologist
+401,University of Minnesota,6,Environmental health officer
+402,Perspecta,3,Environmental health officer
+403,CUNY Hostos Community College,3,Environmental health officer
+404,Vanderbilt University Medical Center,2,Environmental health officer
+405,M.C. Dean,2,Environmental health officer
+406,Healthcare Services Group,427,Environmental manager
+407,Waters,227,Environmental manager
+408,Abbott Laboratories,141,Environmental manager
+409,Abbott,134,Environmental manager
+410,NV5,118,Environmental manager
+411,CDM Smith,269,Environmental scientist
+412,Leidos,173,Environmental scientist
+413,AECOM,152,Environmental scientist
+414,Bartlett Tree Experts,120,Environmental scientist
+415,NV5,112,Environmental scientist
+416,Johns Hopkins University,1300,Equal opportunities officer
+417,Office Depot,1180,Equal opportunities officer
+418,Office Depot OfficeMax,229,Equal opportunities officer
+419,State of Florida,24,Equal opportunities officer
+420,Alorica,9,Equal opportunities officer
+421,Premise Health,11,Ergonomist
+422,U.S. Physical Therapy and OPR Management Services,2,Ergonomist
+423,General Motors,1,Ergonomist
+424,AmerisourceBergen,1,Ergonomist
+425,Amgen,1,Ergonomist
+426,Fidelity Investments,270,Estate agent
+427,Urban Compass,50,Estate agent
+428,First American Financial,23,Estate agent
+429,M&T Bank,20,Estate agent
+430,Randstad,18,Estate agent
+431,Advantage Sales & Marketing LLC dba Advantage Solutions,8390,Estimator
+432,Oracle,3689,Estimator
+433,EY,2954,Estimator
+434,CDM Smith,2339,Estimator
+435,Travelers,1907,Estimator
+436,CTG,179,Exhibition organiser
+437,Good Samaritan Society,145,Exhibition organiser
+438,SPECTRUM,112,Exhibition organiser
+439,Sanford Health,48,Exhibition organiser
+440,"ECS Virtual Support, LLC",30,Exhibition organiser
+441,Freeport-McMoRan,1,Exploration geologist
+442,Aramark,8184,Facilities manager
+443,CBRE,2625,Facilities manager
+444,7 Eleven,1384,Facilities manager
+445,CBRE Group,1212,Facilities manager
+446,Compass Group,1114,Facilities manager
+447,ASSURANCE Independent Agents,18164,Financial manager
+448,Oracle,5740,Financial manager
+449,CVS Health,3774,Financial manager
+450,AutoZone,3149,Financial manager
+451,Deloitte,2868,Financial manager
+452,SAIC,61,Fire engineer
+453,Leidos,28,Fire engineer
+454,Siemens,15,Fire engineer
+455,CyberCoders,15,Fire engineer
+456,Jobot,13,Fire engineer
+457,Army National Guard,552,Firefighter
+458,Applied Materials,100,Firefighter
+459,Motorola Solutions,73,Firefighter
+460,Firehouse Subs,68,Firefighter
+461,Oshkosh,16,Firefighter
+462,Hilton,2,Fitness centre manager
+463,Avalonbay Communities,2,Fitness centre manager
+464,Cleveland Clinic,1,Fitness centre manager
+465,The Salvation Army,1,Fitness centre manager
+466,University of Colorado Boulder,1,Fitness centre manager
+467,Waters,227,Food scientist
+468,Kelly IT,159,Food scientist
+469,Aerotek,84,Food scientist
+470,Kelly Services,42,Food scientist
+471,Compass Group,41,Food scientist
+472,Aerotek,6,Food technologist
+473,The Judge Group,4,Food technologist
+474,Kelly IT,4,Food technologist
+475,Kellogg,1,Food technologist
+476,Ingredion,1,Food technologist
+477,SAIC,58,Forensic scientist
+478,State of Florida,9,Forensic scientist
+479,Quest Diagnostics,8,Forensic scientist
+480,Thermo Fisher Scientific,6,Forensic scientist
+481,PwC,6,Forensic scientist
+482,UPS,50,Freight forwarder
+483,Robert Half,33,Freight forwarder
+484,Aerotek,28,Freight forwarder
+485,CACI International,20,Freight forwarder
+486,DHL Express,19,Freight forwarder
+487,Regeneron Pharmaceuticals,9,Geneticist
+488,Merck,8,Geneticist
+489,Fairview Health Services,5,Geneticist
+490,Mayo Clinic,4,Geneticist
+491,University of Washington,3,Geneticist
+492,Leidos,7,Geographical information systems manager
+493,Google,2,Geographical information systems manager
+494,AES,1,Geographical information systems manager
+495,"University of California, Santa Barbara",1,Geographical information systems manager
+496,University of Illinois at Chicago,1,Geographical information systems manager
+497,University of Minnesota,3,Government lawyer
+498,UnitedHealth Group,2,Government lawyer
+499,Goldman Sachs,1,Government lawyer
+500,Robert Half,1,Government lawyer
+501,KBR,1,Government lawyer
+502,Oracle,328,Graphic designer
+503,Travelers,285,Graphic designer
+504,Robert Half,229,Graphic designer
+505,Deloitte,216,Graphic designer
+506,"Anthem, Inc",176,Graphic designer
+507,Securitas USA,4,Health and safety adviser
+508,Stryker,1,Health and safety adviser
+509,University of Rochester,1,Health and safety adviser
+510,Raley's,1,Health and safety adviser
+511,Army National Guard,271,Health and safety inspector
+512,Aerotek,3,Health and safety inspector
+513,Diageo,1,Health and safety inspector
+514,American Lung Association,2,Health promotion specialist
+515,Intermountain Healthcare,1,Health promotion specialist
+516,University of Washington,1,Health promotion specialist
+517,Advocates,1,Health promotion specialist
+518,"City Of San Antonio, TX",1,Health promotion specialist
+519,Wellpath,191,Health service manager
+520,Amedisys,108,Health service manager
+521,"Anthem, Inc",39,Health service manager
+522,Brookdale Senior Living,33,Health service manager
+523,Banner Health,28,Health service manager
+524,Sanford Health,15,Health visitor
+525,Mayo Clinic,10,Health visitor
+526,McLeod Health,8,Health visitor
+527,Walgreens,6,Health visitor
+528,Community Health Systems,5,Health visitor
+529,HealthPro Heritage,51,Heritage manager
+530,The John Stewart Company,4,Heritage manager
+531,Google,1,Heritage manager
+532,GrowMark,1,Heritage manager
+533,University of Colorado Boulder,9,Higher education administrator
+534,University of Pennsylvania,8,Higher education administrator
+535,University of Washington,7,Higher education administrator
+536,University of Rochester,5,Higher education administrator
+537,NYU Langone Medical Center,4,Higher education administrator
+538,Gandara Mental Health Center,1,Homeless support worker
+539,Oracle,973,Hotel manager
+540,PetSmart,489,Hotel manager
+541,Marriott International,325,Hotel manager
+542,Extended Stay America,312,Hotel manager
+543,Morgan Properties,85,Hotel manager
+544,Facebook,32,Housing adviser
+545,Regions Financial,9,Housing adviser
+546,Kelly IT,8,Housing adviser
+547,ExecuNet,5,Housing adviser
+548,Presbyterian Homes & Services,3,Housing adviser
+549,U.S. Customs and Border Protection,901,Human resources officer
+550,University of Colorado Boulder,264,Human resources officer
+551,State of Florida,128,Human resources officer
+552,Creighton University,95,Human resources officer
+553,Department of Veterans Affairs,47,Human resources officer
+554,Purdue University,1,Hydrologist
+555,Woolpert,1,Hydrologist
+556,Hired,2641,Illustrator
+557,Hibbett|City Gear,885,Illustrator
+558,Robert Half,671,Illustrator
+559,Oracle,414,Illustrator
+560,Humana,379,Illustrator
+561,Deloitte,9,Immigration officer
+562,ManTech,9,Immigration officer
+563,CGI Technologies and Solutions,6,Immigration officer
+564,Robert Half,3,Immigration officer
+565,Catholic Charities,2,Immigration officer
+566,Bristol Myers Squibb,6,Immunologist
+567,Pfizer,3,Immunologist
+568,Emory,3,Immunologist
+569,Microsoft,2,Immunologist
+570,Johnson & Johnson,2,Immunologist
+571,CBRE Group,48,Industrial/product designer
+572,Facebook,12,Industrial/product designer
+573,AGCO,11,Industrial/product designer
+574,Pitney Bowes,11,Industrial/product designer
+575,Amazon,10,Industrial/product designer
+576,Oracle,3077,Information scientist
+577,Leidos,3053,Information scientist
+578,Deloitte,1890,Information scientist
+579,Dacha Navy Yard,1753,Information scientist
+580,EY,1211,Information scientist
+581,CSL Plasma,3021,Information systems manager
+582,Oracle,2352,Information systems manager
+583,Deloitte,889,Information systems manager
+584,EY,450,Information systems manager
+585,PwC,380,Information systems manager
+586,Platinum Supplemental Insurance,374,Insurance broker
+587,Travelers,108,Insurance broker
+588,Randstad,40,Insurance broker
+589,Robert Half,30,Insurance broker
+590,Chubb,22,Insurance broker
+591,Gerber Collision & Glass,13,Insurance claims inspector
+592,Liberty Mutual,155,Insurance underwriter
+593,EY,110,Insurance underwriter
+594,Travelers,73,Insurance underwriter
+595,Red Arch Solutions,66,Insurance underwriter
+596,Fidelity National Financial,49,Insurance underwriter
+597,Walmart,15226,Interpreter
+598,Dollar General,11151,Interpreter
+599,Advance Auto Parts,10128,Interpreter
+600,CVS Health,7488,Interpreter
+601,Family Dollar Stores,6701,Interpreter
+602,Bank of America,84,Investment analyst
+603,Guidehouse,49,Investment analyst
+604,Wells Fargo,48,Investment analyst
+605,Deloitte,45,Investment analyst
+606,Robert Half,35,Investment analyst
+607,U.S. Bank,36,Investment fund manager
+608,Robert Half,9,Investment fund manager
+609,Goldman Sachs,6,Investment fund manager
+610,First Republic Bank,4,Investment fund manager
+611,Thrivent Financial for Lutherans,3,Investment fund manager
+612,Oracle,427,IT consultant
+613,Fiserv,339,IT consultant
+614,Deloitte,305,IT consultant
+615,Accenture,286,IT consultant
+616,Amazon,227,IT consultant
+617,Kforce Technology Staffing,12,IT support analyst
+618,Apex Systems,10,IT support analyst
+619,The Judge Group,9,IT support analyst
+620,TEKsystems,8,IT support analyst
+621,Sanford Health,8,IT support analyst
+622,BetterHelp,20282,Journalist
+623,Robert Half,3698,Journalist
+624,Facebook,2189,Journalist
+625,Oracle,2146,Journalist
+626,Revature,1783,Journalist
+627,Aerotek,441,Laboratory technician
+628,Kelly IT,406,Laboratory technician
+629,Aspen Dental,236,Laboratory technician
+630,CSL Plasma,220,Laboratory technician
+631,Kelly Services,166,Laboratory technician
+632,Frontier Communications,3,Land-based engineer
+633,General Dynamics Electric Boat,1,Land-based engineer
+634,Gryphon Technologies,1,Land-based engineer
+635,Facebook,49,Landscape architect
+636,Aerotek,12,Landscape architect
+637,AECOM,11,Landscape architect
+638,Kimley-Horn,8,Landscape architect
+639,Wells Fargo,7,Landscape architect
+640,Dignity Health,1,Learning disability nurse
+641,Sodexo,417,Learning mentor
+642,Oracle,410,Learning mentor
+643,Capital One,59,Learning mentor
+644,Booz Allen Hamilton,53,Learning mentor
+645,AdventHealth,35,Learning mentor
+646,Dollar General,6,Lecturer (adult education)
+647,Johns Hopkins University,1,Lecturer (higher education)
+648,Brown University,1,Lecturer (higher education)
+649,University of Colorado Boulder,1,Lecturer (higher education)
+650,Clark University,1,Lecturer (higher education)
+651,University of Texas at Arlington,1,Lecturer (higher education)
+652,Oracle,328,Legal executive
+653,Applied Materials,50,Legal executive
+654,salesforce.com,22,Legal executive
+655,"Anthem, Inc",20,Legal executive
+656,CyberCoders,18,Legal executive
+657,Therapy Management Corporation,2,Local government administrator
+658,Liberty University,2,Local government administrator
+659,Baxter International,1,Local government administrator
+660,Charter Communications,1,Local government administrator
+661,General Dynamics Information Technology,1,Local government administrator
+662,Ryder System,220,Logistics/distribution manager
+663,United Parcel Service,46,Logistics/distribution manager
+664,UPS,15,Logistics/distribution manager
+665,Dollar General,15,Logistics/distribution manager
+666,Robert Half,4,Logistics/distribution manager
+667,DTE Energy,70,Magazine journalist
+668,Perspecta,6,Magazine journalist
+669,UnitedHealth Group,3,Magazine journalist
+670,Parkland,3,Magazine journalist
+671,CyberCoders,2,Magazine journalist
+672,CBRE,812,Maintenance engineer
+673,PG&E Corporation,570,Maintenance engineer
+674,CBRE Group,394,Maintenance engineer
+675,Leidos,264,Maintenance engineer
+676,Aerotek,149,Maintenance engineer
+677,Robert Half,1790,Management accountant
+678,Oracle,995,Management accountant
+679,EY,844,Management accountant
+680,PG&E Corporation,435,Management accountant
+681,Hertz Global Holdings,408,Management accountant
+682,Northrop Grumman,521,Manufacturing engineer
+683,Aerotek,508,Manufacturing engineer
+684,Honeywell,454,Manufacturing engineer
+685,Kelly IT,244,Manufacturing engineer
+686,L3Harris Technologies,169,Manufacturing engineer
+687,Aerotek,152,Manufacturing machine operator
+688,Randstad,56,Manufacturing machine operator
+689,Kelly IT,49,Manufacturing machine operator
+690,Remedy Intelligent Staffing,30,Manufacturing machine operator
+691,Kelly Services,27,Manufacturing machine operator
+692,Aerotek,2,Manufacturing toolmaker
+693,Veterans Prime,1,Manufacturing toolmaker
+694,National Geospatial Intelligence Agency,298,Marine scientist
+695,Northeastern University,48,Marine scientist
+696,AECOM,41,Marine scientist
+697,University of Miami,17,Marine scientist
+698,"University of California, Santa Barbara",12,Marine scientist
+699,Oracle,82,Market research analyst
+700,Select Source International,6,Market research analyst
+701,Guidehouse,6,Market research analyst
+702,Booz Allen Hamilton,4,Market research analyst
+703,IQVIA,4,Market research analyst
+704,Humana,17,Market research executive
+705,Abbott Laboratories,10,Market research executive
+706,PwC,8,Market research executive
+707,Boston Scientific,4,Market research executive
+708,Guidehouse,4,Market research executive
+709,Oracle,565,Marketing assistant
+710,LifePoint Health,227,Marketing assistant
+711,Aaron's,165,Marketing assistant
+712,Spot On Recruiting,151,Marketing assistant
+713,Fiserv,87,Marketing assistant
+714,Oracle,2656,Marketing executive
+715,Facebook,360,Marketing executive
+716,Deloitte,285,Marketing executive
+717,salesforce.com,269,Marketing executive
+718,Amgen,262,Marketing executive
+719,Oracle,327,Marketing manager (direct)
+720,Aramark,12,Marketing manager (direct)
+721,Thermo Fisher Scientific,9,Marketing manager (direct)
+722,Randstad,7,Marketing manager (direct)
+723,KPMG,6,Marketing manager (direct)
+724,HarperCollins Publishers,10,Marketing manager (social media)
+725,2020 Companies,8,Marketing manager (social media)
+726,Robert Half,6,Marketing manager (social media)
+727,Aerotek,5,Marketing manager (social media)
+728,Radancy,5,Marketing manager (social media)
+729,Applied Materials,3279,Materials engineer
+730,Honeywell,353,Materials engineer
+731,"ECS Virtual Support, LLC",297,Materials engineer
+732,Northrop Grumman,206,Materials engineer
+733,Facebook,181,Materials engineer
+734,Chewy,219,Materials specialist
+735,Kelly IT,29,Materials specialist
+736,PDS Tech,14,Materials specialist
+737,Kelly Services,12,Materials specialist
+738,Caterpillar,10,Materials specialist
+739,Aerotek,595,Mechanical engineer
+740,Honeywell,563,Mechanical engineer
+741,Facebook,526,Mechanical engineer
+742,PG&E Corporation,455,Mechanical engineer
+743,Northrop Grumman,376,Mechanical engineer
+744,Oracle,247,Media analyst
+745,Accenture,197,Media analyst
+746,Thermo Fisher Scientific,39,Media analyst
+747,EY,36,Media analyst
+748,Radancy,27,Media analyst
+749,Burbank Unified,43,Media buyer
+750,Robert Half,18,Media buyer
+751,Comcast,9,Media buyer
+752,Latitude,5,Media buyer
+753,CyberCoders,5,Media buyer
+754,Robert Half,17,Media planner
+755,M/M Recruitment Group,12,Media planner
+756,Radancy,10,Media planner
+757,Comcast,6,Media planner
+758,Zimmerman Advertising,5,Media planner
+759,Mayo Clinic,8,Medical physicist
+760,Emory,7,Medical physicist
+761,University of Pennsylvania,4,Medical physicist
+762,Memorial Sloan Kettering,3,Medical physicist
+763,Cleveland Clinic,3,Medical physicist
+764,Rotech Healthcare,154,Medical representative
+765,HCA Healthcare,138,Medical representative
+766,IQVIA,129,Medical representative
+767,Robert Half,41,Medical representative
+768,Fairview Health Services,39,Medical representative
+769,CareerStaff Unlimited,1755,Mental health nurse
+770,Kindred Healthcare,315,Mental health nurse
+771,Select Medical,209,Mental health nurse
+772,Amedisys,155,Mental health nurse
+773,Wellpath,97,Mental health nurse
+774,Freeport-McMoRan,8,Metallurgist
+775,Kelly IT,4,Metallurgist
+776,Nucor,3,Metallurgist
+777,Randstad,3,Metallurgist
+778,The Judge Group,2,Metallurgist
+779,Sinclair Broadcast Group,15,Meteorologist
+780,KWES TV Midland/Odessa,5,Meteorologist
+781,CBS,2,Meteorologist
+782,Leidos,2,Meteorologist
+783,Altice USA,2,Meteorologist
+784,Kelly IT,41,Microbiologist
+785,Aerotek,25,Microbiologist
+786,Select Source International,13,Microbiologist
+787,Quest Diagnostics,12,Microbiologist
+788,Medical Facilities of America,12,Microbiologist
+789,AMITA Health,66,Midwife
+790,Integrity Healthcare,20,Midwife
+791,CompHealth,18,Midwife
+792,ESR Healthcare Recruitment,14,Midwife
+793,Fairview Health Services,13,Midwife
+794,CDM Smith,296,Mining engineer
+795,Army National Guard,93,Mining engineer
+796,Continental Resources,53,Mining engineer
+797,Freeport-McMoRan,18,Mining engineer
+798,Uber,18,Mining engineer
+799,Oracle,1079,Mobile developer
+800,Deloitte,412,Mobile developer
+801,Facebook,360,Mobile developer
+802,salesforce.com,304,Mobile developer
+803,Microsoft,252,Mobile developer
+804,SAIC,3,Multimedia programmer
+805,Select Source International,2,Multimedia programmer
+806,Mayo Clinic,1,Multimedia programmer
+807,General Dynamics Information Technology,1,Multimedia programmer
+808,Booz Allen Hamilton,5,Multimedia specialists
+809,SAIC,4,Multimedia specialists
+810,Johns Hopkins University,4,Multimedia specialists
+811,Capital One,2,Multimedia specialists
+812,Walgreens,2,Multimedia specialists
+813,Fairview Health Services,12,Music therapist
+814,State of Florida,8,Music therapist
+815,Johns Hopkins University,4,Music therapist
+816,Mayo Clinic,3,Music therapist
+817,Harbor Retirement Associates,3,Music therapist
+818,University of North Carolina at Greensboro,1,Nanoscientist
+819,CACI International,4,Naval architect
+820,Caterpillar,3,Naval architect
+821,Gryphon Technologies,2,Naval architect
+822,General Electric,1,Naval architect
+823,Cummins,1,Naval architect
+824,Leidos,868,Network administrator
+825,Army National Guard,858,Network administrator
+826,Oracle,592,Network administrator
+827,U.S. Navy,504,Network administrator
+828,Humana,320,Network administrator
+829,BetterHelp,20282,Nurse
+830,CareInHomes,17295,Nurse
+831,Amazon,8239,Nurse
+832,GHR Travel Nursing,7924,Nurse
+833,Genesis HealthCare,6861,Nurse
+834,Volunteers of America Los Angeles,25,Nutritional therapist
+835,Careerbuilder US,13,Nutritional therapist
+836,AHMC Healthcare,4,Nutritional therapist
+837,University of Minnesota,3,Nutritional therapist
+838,Montefiore Medical Center,2,Nutritional therapist
+839,Life Time,51,Nutritionist
+840,State of Florida,20,Nutritionist
+841,Geisinger Health System,15,Nutritionist
+842,Dignity Health,12,Nutritionist
+843,Children's Healthcare of Atlanta,10,Nutritionist
+844,Kindred at Home,1344,Occupational therapist
+845,Select Medical,666,Occupational therapist
+846,HealthPro Heritage,431,Occupational therapist
+847,Genesis HealthCare,325,Occupational therapist
+848,Encompass Health Home Health & Hospice,223,Occupational therapist
+849,Dacha Navy Yard,1763,Oceanographer
+850,U.S. Navy,264,Oceanographer
+851,Leidos,5,Oceanographer
+852,University of Washington,4,Oceanographer
+853,Radiance Technologies,3,Oceanographer
+854,Aspen Dental,1979,Office manager
+855,U.S. Customs and Border Protection,901,Office manager
+856,Oracle,664,Office manager
+857,Robert Half,517,Office manager
+858,Raising Cane's,377,Office manager
+859,IBM,425,Operational researcher
+860,Facebook,379,Operational researcher
+861,Oracle,345,Operational researcher
+862,Amazon Corporate LLC,278,Operational researcher
+863,Fiserv,264,Operational researcher
+864,Oregon Health and Science University,3,Orthoptist
+865,Ann & Robert H. Lurie Children's Hospital of Chicago,1,Orthoptist
+866,Virginia Mason Medical Center,1,Orthoptist
+867,Unilever,3,Packaging technologist
+868,Applied Materials,1,Packaging technologist
+869,Akumin,1,Packaging technologist
+870,CSL Plasma,885,Paramedic
+871,Rotech Healthcare,150,Paramedic
+872,U.S. Navy,126,Paramedic
+873,Applied Materials,100,Paramedic
+874,Quest Diagnostics,95,Paramedic
+875,Google,11,Patent attorney
+876,Thermo Fisher Scientific,10,Patent attorney
+877,Regeneron Pharmaceuticals,8,Patent attorney
+878,Robert Half,6,Patent attorney
+879,CyberCoders,4,Patent attorney
+880,Corning,1,Patent examiner
+881,NYU Langone Medical Center,1,Patent examiner
+882,Nelson Mullins Riley & Scarborough,1,Patent examiner
+883,Facebook,3,Personal assistant
+884,Accenture,3,Personal assistant
+885,Robert Half,3,Personal assistant
+886,CACI International,2,Personal assistant
+887,State of Florida,2,Personal assistant
+888,PG&E Corporation,7,Petroleum engineer
+889,Pioneer Natural Resources,5,Petroleum engineer
+890,University of Pittsburgh,2,Petroleum engineer
+891,Baker Hughes,1,Petroleum engineer
+892,WASTE MANAGEMENT,1,Petroleum engineer
+893,CVS Health,23064,Pharmacist
+894,Walmart,16599,Pharmacist
+895,Walgreens,15397,Pharmacist
+896,Pizza Hut,3559,Pharmacist
+897,Family Dollar Stores,3363,Pharmacist
+898,Bristol Myers Squibb,10,Pharmacologist
+899,AbbVie,8,Pharmacologist
+900,Johnson & Johnson,7,Pharmacologist
+901,Merck,7,Pharmacologist
+902,Kelly IT,7,Pharmacologist
+903,Amgen,2,Pharmacovigilance officer
+904,Dacha Navy Yard,3523,Photographer
+905,Carvana,1838,Photographer
+906,CDM Smith,1622,Photographer
+907,Walgreens,1101,Photographer
+908,U.S. Navy,631,Photographer
+909,EI du Pont de Nemours,4,Physiotherapist
+910,Humana,29,Picture researcher
+911,XPO Logistics,10,Picture researcher
+912,IQVIA,9,Picture researcher
+913,Time Warner,2,Picture researcher
+914,United Nations Federal Credit Union,2,Picture researcher
+915,HealthPro Heritage,34,Planning technician
+916,Kroger,28,Planning technician
+917,CBRE,27,Planning technician
+918,Leidos,25,Planning technician
+919,Amazon,17,Planning technician
+920,Bayer,3,Plant breeder
+921,WestRock Company,2,Plant breeder
+922,Nutrien,1,Plant breeder
+923,Del Monte Fresh Produce,1,Plant breeder
+924,Army National Guard,465,Police officer
+925,National Geospatial Intelligence Agency,151,Police officer
+926,Florida Rock & Tank Lines,112,Police officer
+927,Motorola Solutions,73,Police officer
+928,U.S. Army,65,Police officer
+929,Facebook,57,Political researcher
+930,Deloitte,3,Political researcher
+931,Microsoft,2,Political researcher
+932,University of Pittsburgh,2,Political researcher
+933,SAP,2,Political researcher
+934,Wellpath,1621,Practice nurse
+935,ShiftMed,1577,Practice nurse
+936,Genesis HealthCare,1421,Practice nurse
+937,AdventHealth,1274,Practice nurse
+938,Providence Health & Services,1243,Practice nurse
+939,Audi of America,1,Press photographer
+940,ACSO,1,Prison officer
+941,State of Florida,52,Probation officer
+942,Gandara Mental Health Center,17,Probation officer
+943,United Health Services,10,Probation officer
+944,State of Virginia,8,Probation officer
+945,UnitedHealth Group,3,Probation officer
+946,Oracle,246,Product development scientist
+947,Thermo Fisher Scientific,42,Product development scientist
+948,Humana,24,Product development scientist
+949,AbbVie,24,Product development scientist
+950,Facebook,11,Product development scientist
+951,Oracle,1058,Production manager
+952,FedEx Office,428,Production manager
+953,BrightView,363,Production manager
+954,Robert Half,274,Production manager
+955,Facebook,210,Production manager
+956,Oracle,412,Programme researcher
+957,Northside Hospital,329,Programme researcher
+958,Microsoft,234,Programme researcher
+959,Johns Hopkins University,221,Programme researcher
+960,"Anthem, Inc",214,Programme researcher
+961,Oracle,32319,Project manager
+962,Deloitte,7622,Project manager
+963,EY,5239,Project manager
+964,Accenture,4493,Project manager
+965,Humana,3344,Project manager
+966,Fairview Health Services,27,Psychotherapist
+967,Eating Recovery Center,20,Psychotherapist
+968,Kaiser Permanente,13,Psychotherapist
+969,Atrium Health,10,Psychotherapist
+970,SSM Health,9,Psychotherapist
+971,Brooklyn Public Library,1,Public librarian
+972,CUNY Hostos Community College,1,Public librarian
+973,Robert Half,118,QA analyst
+974,Oracle,83,QA analyst
+975,Kforce Technology Staffing,39,QA analyst
+976,Apex Systems,23,QA analyst
+977,Deloitte,22,QA analyst
+978,CVS Health,3006,Quality assurance manager
+979,Oracle,495,Quality assurance manager
+980,FedEx Ground,172,Quality assurance manager
+981,Kroger,141,Quality assurance manager
+982,Deloitte,101,Quality assurance manager
+983,Micron Technology,2,Quantity surveyor
+984,Aerotek,1,Quantity surveyor
+985,Oracle,4471,Records manager
+986,Army National Guard,1119,Records manager
+987,Southeastern Grocers,645,Records manager
+988,EY,409,Records manager
+989,Facebook,361,Records manager
+990,Randstad,223,Recruitment consultant
+991,TEKsystems,187,Recruitment consultant
+992,Facebook,109,Recruitment consultant
+993,Humana,100,Recruitment consultant
+994,Oracle,82,Recruitment consultant
+995,PRIDE Industries,4,Recycling officer
+996,Randstad,1,Recycling officer
+997,Adecco USA,1,Recycling officer
+998,LKQ Corporation,1,Recycling officer
+999,Staffmark,1,Recycling officer
+1000,IQVIA,10,Regulatory affairs officer
+1001,University of Pennsylvania,4,Regulatory affairs officer
+1002,Aerotek,4,Regulatory affairs officer
+1003,Johns Hopkins University,3,Regulatory affairs officer
+1004,Merck,2,Regulatory affairs officer
+1005,Facebook,51,Research chemist
+1006,Kelly IT,15,Research chemist
+1007,Bayer,5,Research chemist
+1008,PPG Industries,3,Research chemist
+1009,Pfizer,3,Research chemist
+1010,Facebook,2810,Research scientist
+1011,Thermo Fisher Scientific,1458,Research scientist
+1012,Oracle,492,Research scientist
+1013,Amazon Corporate LLC,391,Research scientist
+1014,Merck,365,Research scientist
+1015,Pizza Hut,9043,Restaurant manager
+1016,KFC,3416,Restaurant manager
+1017,Sonic Drive In,2874,Restaurant manager
+1018,Arby's,2617,Restaurant manager
+1019,Gecko Hospitality,2606,Restaurant manager
+1020,CTG,180,Retail banker
+1021,Dieterich Bank,5,Retail banker
+1022,JPMorgan Chase,3,Retail banker
+1023,Comerica,2,Retail banker
+1024,Landmark Bank,1,Retail banker
+1025,Fidelity Investments,127,Retail buyer
+1026,Deloitte,37,Retail buyer
+1027,Aramark,9,Retail buyer
+1028,Change Healthcare,4,Retail buyer
+1029,Abbott Laboratories,2,Retail buyer
+1030,GameStop,5387,Retail manager
+1031,Pizza Hut,3999,Retail manager
+1032,AutoZone,3152,Retail manager
+1033,U.S. Bank,2469,Retail manager
+1034,Dollar Tree Stores,2118,Retail manager
+1035,Walmart,29559,Retail merchandiser
+1036,Advantage Sales & Marketing LLC dba Advantage Solutions,6742,Retail merchandiser
+1037,Tractor Supply,3381,Retail merchandiser
+1038,CROSSMARK,3185,Retail merchandiser
+1039,Spar Group,2831,Retail merchandiser
+1040,CVS Health,8317,Retail pharmacist
+1041,Walgreens,2614,Retail pharmacist
+1042,Fairview Health Services,1166,Retail pharmacist
+1043,Spar Group,439,Retail pharmacist
+1044,UnitedHealth Group,189,Retail pharmacist
+1045,Oracle,8803,Sales executive
+1046,Fiserv,1495,Sales executive
+1047,Bath & Body Works,1028,Sales executive
+1048,PetSmart,934,Sales executive
+1049,Advantage Sales & Marketing LLC dba Advantage Solutions,744,Sales executive
+1050,National Geospatial Intelligence Agency,706,Secretary
+1051,Select Medical,301,Secretary
+1052,CHRISTUS Health,226,Secretary
+1053,United Nations Federal Credit Union,180,Secretary
+1054,Robert Half,173,Secretary
+1055,Hired,4526,Site engineer
+1056,Oracle,2024,Site engineer
+1057,VMware,461,Site engineer
+1058,Microsoft,190,Site engineer
+1059,Wells Fargo,188,Site engineer
+1060,Oracle,2818,Site manager
+1061,C.R. England,2106,Site manager
+1062,IQVIA,1159,Site manager
+1063,Integris Health,731,Site manager
+1064,salesforce.com,658,Site manager
+1065,Facebook,81,Social researcher
+1066,Travelers,47,Social researcher
+1067,Deloitte,35,Social researcher
+1068,Kforce Technology Staffing,29,Social researcher
+1069,Stolt Nielsen USAorporated,28,Social researcher
+1070,BetterHelp,19933,Social worker
+1071,DaVita,2129,Social worker
+1072,BAYADA Home Health Care,1707,Social worker
+1073,Fresenius Medical Care North America,1217,Social worker
+1074,Matrix Medical Network,899,Social worker
+1075,Oracle,29822,Software developer
+1076,Revature,4947,Software developer
+1077,Amazon Corporate LLC,4753,Software developer
+1078,Hired,3187,Software developer
+1079,Deloitte,2923,Software developer
+1080,Oracle,34501,Software engineer
+1081,Hired,21722,Software engineer
+1082,ASSURANCE Independent Agents,18165,Software engineer
+1083,Facebook,5216,Software engineer
+1084,Microsoft,4057,Software engineer
+1085,BrightView,14,Soil scientist
+1086,Colorado State University,12,Soil scientist
+1087,Front Range Community College,8,Soil scientist
+1088,Oregon State University,6,Soil scientist
+1089,University of Minnesota,4,Soil scientist
+1090,GrowMark,9,Solicitor
+1091,Teach For America,6,Solicitor
+1092,Cherokee Nation,4,Solicitor
+1093,CRC Insurance Services,4,Solicitor
+1094,Emory,2,Solicitor
+1095,LEARN Behavioral,179,Speech and language therapist
+1096,Kindred at Home,128,Speech and language therapist
+1097,Kindred Healthcare,86,Speech and language therapist
+1098,Preferred Healthcare Staffing,31,Speech and language therapist
+1099,Post Acute Medical,29,Speech and language therapist
+1100,U.S. Physical Therapy and OPR Management Services,37,Sports coach
+1101,SAIC,19,Sports coach
+1102,Johns Hopkins University,5,Sports coach
+1103,Leidos,5,Sports coach
+1104,The Kinkaid School,4,Sports coach
+1105,Kindred Healthcare,85,Sports therapist
+1106,U.S. Physical Therapy and OPR Management Services,38,Sports therapist
+1107,SAIC,19,Sports therapist
+1108,ATI Physical Therapy,13,Sports therapist
+1109,Leidos,8,Sports therapist
+1110,IQVIA,118,Statistician
+1111,Merck,114,Statistician
+1112,AbbVie,84,Statistician
+1113,Covance,70,Statistician
+1114,Bristol Myers Squibb,69,Statistician
+1115,Unum Group,5,Stockbroker
+1116,AECOM,109,Structural engineer
+1117,Aerotek,71,Structural engineer
+1118,Northrop Grumman,60,Structural engineer
+1119,Facebook,56,Structural engineer
+1120,CDM Smith,55,Structural engineer
+1121,Oracle,576,Systems analyst
+1122,Deloitte,407,Systems analyst
+1123,CTG,395,Systems analyst
+1124,"Anthem, Inc",390,Systems analyst
+1125,Fiserv,350,Systems analyst
+1126,Oracle,4305,Systems developer
+1127,EY,2831,Systems developer
+1128,Deloitte,2491,Systems developer
+1129,Leidos,2077,Systems developer
+1130,Travelers,1783,Systems developer
+1131,Careerbuilder US,1,Tax inspector
+1132,KinderCare Education,335,Teacher (primary)
+1133,PruittHealth,170,Teacher (primary)
+1134,Catholic Health Initiatives,40,Teacher (primary)
+1135,American Mobile Healthcare,11,Teacher (primary)
+1136,Boston University,9,Teacher (primary)
+1137,University of South Carolina,12,Teacher (secondary)
+1138,Guilford Technical Community College,12,Teacher (secondary)
+1139,Methodist Health System Dallas,6,Teacher (secondary)
+1140,Baltimore City Community College,5,Teacher (secondary)
+1141,Mid State Technical College,5,Teacher (secondary)
+1142,HealthPro Heritage,2,Teacher (special educational needs)
+1143,Kelly Services,1,Teacher (special educational needs)
+1144,Kelly IT,1,Teacher (special educational needs)
+1145,Johns Hopkins University,1,Teaching/classroom assistant
+1146,Oracle,409,Technical author
+1147,EY,209,Technical author
+1148,Citi,103,Technical author
+1149,VMware,101,Technical author
+1150,Microsoft,64,Technical author
+1151,Oracle,328,Technical sales engineer
+1152,Microsoft,108,Technical sales engineer
+1153,Accenture,31,Technical sales engineer
+1154,VMware,28,Technical sales engineer
+1155,Google,16,Technical sales engineer
+1156,Oracle,740,Test automation developer
+1157,CTG,358,Test automation developer
+1158,Leidos,84,Test automation developer
+1159,KPMG,70,Test automation developer
+1160,Northrop Grumman,61,Test automation developer
+1161,State University of New York College at Cortland,36,Tour guide
+1162,Vail Resorts,26,Tour guide
+1163,Aramark,25,Tour guide
+1164,FedEx Ground,9,Tour guide
+1165,PDS Tech,4,Tour guide
+1166,CBRE,5,Tour operator
+1167,Aramark,4,Tour operator
+1168,Enterprise Holdings,3,Tour operator
+1169,AT&T,2,Tour operator
+1170,U.S. Navy,2,Tour operator
+1171,Spectra Energy,1,Tourism officer
+1172,University of Hawai’i at Mānoa,1,Tourism officer
+1173,Covance,7,Toxicologist
+1174,AbbVie,6,Toxicologist
+1175,Kelly IT,6,Toxicologist
+1176,Johnson & Johnson,5,Toxicologist
+1177,Bristol Myers Squibb,4,Toxicologist
+1178,Loves Travel Stops & Country Store,3689,Trader
+1179,Fidelity Investments,624,Trader
+1180,Goldman Sachs,59,Trader
+1181,Sig Sauer,50,Trader
+1182,JPMorgan Chase,47,Trader
+1183,University of Pennsylvania,5,Training and development officer
+1184,Enterprise Holdings,5,Training and development officer
+1185,Advance Auto Parts,4,Training and development officer
+1186,United Surgical Partners International,4,Training and development officer
+1187,State of Florida,3,Training and development officer
+1188,Oracle,14544,Translator
+1189,Army National Guard,6157,Translator
+1190,Dacha Navy Yard,5217,Translator
+1191,Hired,2641,Translator
+1192,EY,2287,Translator
+1193,Unilever,6,Transportation planner
+1194,AECOM,5,Transportation planner
+1195,Chewy,5,Transportation planner
+1196,Kimley-Horn,5,Transportation planner
+1197,Cardinal Health,2,Transportation planner
+1198,TTEC,264,Travel agent
+1199,Deloitte,66,Travel agent
+1200,Aerotek,36,Travel agent
+1201,Best Buy,34,Travel agent
+1202,American Express Global Business Travel,11,Travel agent
+1203,Hired,2641,UX designer
+1204,Oracle,1947,UX designer
+1205,Facebook,490,UX designer
+1206,Amazon Corporate LLC,444,UX designer
+1207,EY,296,UX designer
+1208,Oracle,169,Validation engineer
+1209,Intel,132,Validation engineer
+1210,General Motors,63,Validation engineer
+1211,Thermo Fisher Scientific,61,Validation engineer
+1212,Merck,59,Validation engineer
+1213,University of Pennsylvania,11,Veterinary nurse
+1214,Covance,8,Veterinary nurse
+1215,University of Minnesota,7,Veterinary nurse
+1216,PetVet Care Centers,3,Veterinary nurse
+1217,Boston University,1,Veterinary nurse
+1218,PetVet Care Centers,17,Veterinary surgeon
+1219,Colorado State University,2,Veterinary surgeon
+1220,Johnson & Johnson,1,Veterinary surgeon
+1221,Bristol Myers Squibb,1,Veterinary surgeon
+1222,Medtronic,1,Veterinary surgeon
+1223,NVIDIA,12,Video game designer
+1224,Kforce Technology Staffing,2,Video game designer
+1225,Randstad,1,Video game designer
+1226,Apex Systems,1,Video game designer
+1227,Grayson College,1,Video game designer
+1228,Veterans Prime,112,Video game developer
+1229,CyberCoders,5,Video game developer
+1230,Amazon Corporate LLC,4,Video game developer
+1231,Intuitive,3,Video game developer
+1232,Microsoft,2,Video game developer
+1233,Washington State University,1,Waste management officer
+1234,Randstad,1,Waste management officer
+1235,Dacha Navy Yard,1759,Water engineer
+1236,U.S. Navy,260,Water engineer
+1237,AECOM,91,Water engineer
+1238,Jacobs,42,Water engineer
+1239,Aerotek,20,Water engineer
+1240,Oracle,432,Web designer
+1241,Guidehouse,246,Web designer
+1242,EY,213,Web designer
+1243,Travelers,187,Web designer
+1244,Robert Half,162,Web designer
+1245,Hired,10729,Web developer
+1246,Oracle,4134,Web developer
+1247,Revature,1944,Web developer
+1248,Deloitte,886,Web developer
+1249,Travelers,764,Web developer
+1250,BetterHelp,20282,Writer
+1251,Robert Half,3698,Writer
+1252,Facebook,2189,Writer
+1253,Oracle,2146,Writer
+1254,Revature,1783,Writer
+1255,Southwest Key Programs,147,Youth worker
+1256,State of Florida,13,Youth worker
+1257,Samaritas,9,Youth worker
+1258,Child and Family Support Services,7,Youth worker
+1259,SOSi,4,Youth worker
