@@ -1,0 +1,134 @@
+<html>
+    <head>
+        <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+        <script type="text/javascript">
+          google.charts.load("current", {packages:["corechart"]});
+          google.charts.setOnLoadCallback(drawChart);
+          function drawChart() {
+            var data = google.visualization.arrayToDataTable({{Salaries|safe}});
+
+            var options = {
+              title: 'Salary Statistics: {{Category|safe}}',
+              is3D: true,
+              backgroundColor: 'transparent'
+            };
+
+            var chart = new google.visualization.PieChart(document.getElementById('piechart_3d'));
+            chart.draw(data, options);
+          }
+        </script>
+
+      </script>
+      {% load static %}
+
+      <style>
+      /* Entire Document CSS */
+        html{
+            height: 100%;
+        }
+        /* Header CSS */
+        .headers{
+          font-family:Times;
+            color: #009632;
+            text-align: center;
+            padding: 10px;
+        }
+        /* Body CSS */
+        .body{
+          background-image: url({% static 'img/t.jpeg' %});
+        }
+        .container{
+            margin: 0 auto 0 auto;
+            width: 75%;
+            text-align: center;
+            padding-bottom: 500px;
+            height: 50%;
+        }
+        .img{
+          width: 60%;
+        }
+        /* Navigation CSS */
+        .nav {
+            color: #ffffff;
+            display: inline-block;
+            background-color: #009632;
+            margin: 0;
+            padding: 0;
+            min-width: 1000px;
+            width: 100%;
+        }
+        .nav li {
+            list-style-type: none;
+            width: 100%;
+            float: left;
+        }
+        .nav a {
+            display: inline-block;
+            padding: 10px 0;
+            width: 100%;
+            text-align: center;
+        }
+        /* Banner / Picture CSS / Text in Images */
+        .banner_l{
+            float: left;
+        }
+        .banner_r{
+            float: right;
+        }
+        .banner_h{
+            display: block;
+            width: 100%;
+        }
+        .banner_h img{
+            width: 100%;
+        }
+        /* Footer CSS */
+        /* Footer */
+        .footer {
+          position: relative;
+          font-family:Times;
+          color: #ffffff;
+          text-align: center;
+          background: #009632;
+        }
+        /* About US */
+        .side{
+        font-family:Times;
+        color: #009632;
+        text-align: center;
+        }
+
+        #content {
+            padding-bottom: 3em;
+        }
+        /* Link CSS */
+        a:link{
+            color: #0414f5;
+            text-decoration: none;
+        }
+        a:visited{
+            color: #a209fa;
+            text-decoration: none;
+        }
+        a:hover{
+            background-color: #028482;
+            color: #FFFFFF;
+            text-decoration: underline;
+        }
+        a:active{
+            background-color: #FCDC3B;
+            color: #AA00FF;
+            text-decoration: overline;
+        }
+        .Links A:hover{
+            color: #028482;
+            background-color: transparent;
+            text-decoration: underline overline;
+        }
+      </style>
+    </head>
+    <body class="body">
+        <div id="piechart_3d" style="width: 1000px; height: 1000px"></div>
+    </body>
+  </html>

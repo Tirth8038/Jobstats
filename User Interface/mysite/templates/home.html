@@ -1,0 +1,186 @@
+<!doctype html>
+
+
+
+<html lang="en">
+
+
+    <head>
+        <meta charset="utf-8" />
+        <title>Jobstats</title>
+        {% load static %}
+
+        <style>
+        /* Entire Document CSS */
+          html{
+              height: 100%;
+          }
+          /* Header CSS */
+          .headers{
+            font-family:Times;
+              color: #009632;
+              text-align: center;
+              padding: 10px;
+          }
+          /* Body CSS */
+          .body{
+            background-size: cover;
+
+            background-image: url({% static 'img/t.jpeg' %});
+          }
+          .container{
+              color: #000000;
+              margin: 0 auto 0 auto;
+              width: 75%;
+              text-align: center;
+              padding-bottom: 500px;
+              height: 20%;
+          }
+          .img{
+            width: 60%;
+          }
+          /* Navigation CSS */
+          .nav {
+              font-size: 20px;
+              color: #009632;
+              display: inline-block;
+              background-color: #ffffff;
+              margin: 0;
+              padding: 0;
+              min-width: 600px;
+              width: 80%;
+              height: 70%;
+          }
+          .nav li {
+              list-style-type: none;
+              width: 100%;
+              float: left;
+          }
+          .nav a {
+              display: inline-block;
+              padding: 10px 0;
+              width: 100%;
+              text-align: center;
+          }
+          /* Banner / Picture CSS / Text in Images */
+          .banner_l{
+              float: left;
+          }
+          .banner_r{
+              float: right;
+          }
+          .banner_h{
+              display: block;
+              width: 100%;
+          }
+          .banner_h img{
+              width: 100%;
+          }
+          /* Footer CSS */
+          /* Footer */
+          .footer {
+            position: relative;
+            font-family:Times;
+            color: #ffffff;
+            align-self: center;
+            text-align: center;
+            background: #009632;
+          }
+          /* About US */
+          .side{
+          font-family:Times;
+          color: #009632;
+          text-align: center;
+          }
+
+          #content {
+              padding-bottom: 3em;
+          }
+          /* Link CSS */
+          a:link{
+              color: #0414f5;
+              text-decoration: none;
+          }
+          a:visited{
+              color: #a209fa;
+              text-decoration: none;
+          }
+          a:hover{
+              background-color: #028482;
+              color: #FFFFFF;
+              text-decoration: underline;
+          }
+          a:active{
+              background-color: #FCDC3B;
+              color: #AA00FF;
+              text-decoration: overline;
+          }
+          .Links A:hover{
+              color: #028482;
+              background-color: transparent;
+              text-decoration: underline overline;
+          }
+        </style>
+    </head>
+
+      <body class="body">
+
+
+
+        <div class="container">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+          <img src="{% static 'img/b.jpeg' %}" alt="alternatetext" class="img">
+
+        <div>
+
+
+            <nav>
+                <ul class="nav">
+                    <li>
+                        <h4>Get Job Insights</h4>
+                        <form method = "POST" action ="/website/fetch_data_hist/">
+
+                            {{ form1 }}
+
+                            <input type = "submit" value = "Search">
+                        </form>
+                        <br>
+                        <form method = "POST" action ="/website/fetch_data_loc/">
+                            {{ form2 }}
+                            <input type = "submit" value = "Search">
+                        </form>
+                        <br>
+                        <form method = "POST" action ="/website/fetch_data_key/">
+                            {{ form3 }}
+                            <input type = "submit" value = "Search">
+                        </form>
+                    </li>
+                </ul>
+            </nav>
+
+
+        </div>
+
+
+
+
+      </body>
+
+</html>
